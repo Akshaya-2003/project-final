@@ -1,0 +1,1201 @@
+Age,Menstrual_Onset_Age,Generation,Dietary_Pattern,Fast_Food_Intake,Socioeconomic_Status,Physical_Activity,Environmental_Factors,Region,Sugar_Intake_Per_Day,Fiber_Intake_Per_Day,Protein_Intake_Per_Day,Processed_Food_Score,Industrialization_Level,Nutrition_Access
+65,12,1959,Vegan,3,Low,1.1,Medium,Urban,35,26,47,8,High,Good
+27,17,1997,Fast Food,7,Medium,1.6,Low,Urban,12,8,22,8,High,Average
+58,17,1966,Processed,7,Medium,4.2,Medium,Rural,11,18,21,5,Moderate,Average
+53,11,1971,Traditional,1,Medium,3.3,Low,Suburban,11,6,72,3,Low,Excellent
+46,12,1978,Processed,5,Medium,4.3,High,Urban,31,27,33,9,Moderate,Good
+31,11,1993,Vegan,4,Low,2.8,High,Rural,80,16,71,7,High,Average
+21,12,2003,Vegan,1,High,2.2,Medium,Urban,13,14,48,1,Moderate,Good
+61,13,1963,Traditional,9,Medium,4.6,Medium,Urban,47,29,72,8,Moderate,Average
+73,11,1951,Fast Food,3,Medium,0.7,Low,Urban,93,5,73,5,Moderate,Good
+59,16,1965,Vegan,6,Low,4.4,Medium,Suburban,79,23,66,6,Low,Average
+53,11,1971,Vegan,0,Low,1.5,Medium,Rural,82,27,22,9,Moderate,Good
+67,16,1957,Vegan,8,Low,4.3,Low,Suburban,61,20,20,8,Moderate,Poor
+62,11,1962,Vegan,9,Medium,1.1,Medium,Suburban,40,19,34,3,Low,Excellent
+30,16,1994,Processed,0,High,3.1,Medium,Urban,35,18,39,5,Moderate,Poor
+63,17,1961,Processed,4,Low,4.5,High,Rural,45,13,41,4,Moderate,Excellent
+35,13,1989,Fast Food,6,Low,2.6,High,Urban,35,33,53,1,Moderate,Excellent
+50,16,1974,Traditional,7,Low,3.9,High,Suburban,37,25,69,5,Moderate,Average
+38,17,1986,Traditional,1,High,4.1,Medium,Suburban,14,27,52,7,Moderate,Poor
+33,16,1991,Traditional,3,Medium,3.8,Low,Rural,83,19,28,1,High,Excellent
+32,13,1992,Vegan,1,Medium,4.7,High,Suburban,27,30,22,4,Moderate,Good
+71,11,1953,Processed,3,Medium,2.5,Medium,Suburban,24,11,21,6,Low,Average
+74,17,1950,Processed,5,Low,1.3,High,Rural,66,8,23,9,Moderate,Average
+22,17,2002,Fast Food,5,Medium,0.7,Low,Urban,14,25,35,8,High,Good
+78,16,1946,Traditional,1,Low,1.6,Low,Rural,46,22,73,2,Low,Good
+23,13,2001,Processed,3,High,1.1,Low,Suburban,95,12,52,3,Low,Excellent
+55,17,1969,Fast Food,3,High,3.0,Low,Rural,95,16,28,5,Moderate,Good
+20,17,2004,Traditional,0,Medium,1.3,Low,Urban,31,19,76,7,High,Average
+65,16,1959,Vegan,1,Low,0.7,Low,Suburban,61,19,59,3,Moderate,Good
+29,12,1995,Processed,2,Low,0.7,Medium,Urban,24,21,57,7,High,Poor
+53,12,1971,Processed,4,Medium,4.2,High,Urban,26,6,71,5,High,Average
+50,13,1974,Traditional,7,High,3.2,Low,Rural,60,16,37,6,Moderate,Good
+53,11,1971,Vegan,5,High,2.1,High,Urban,54,7,35,6,High,Average
+50,16,1974,Vegan,2,High,4.5,High,Rural,72,11,27,4,Moderate,Excellent
+48,16,1976,Processed,5,High,0.8,Medium,Rural,37,10,42,8,High,Poor
+38,13,1986,Traditional,6,High,4.9,Low,Urban,68,18,79,9,Low,Excellent
+44,17,1980,Fast Food,5,Medium,3.3,Low,Rural,95,27,55,2,Moderate,Poor
+44,16,1980,Processed,9,Medium,1.3,Medium,Rural,30,31,22,9,High,Good
+25,16,1999,Vegan,5,Medium,3.6,Medium,Urban,51,9,34,4,Low,Average
+73,13,1951,Fast Food,0,High,3.9,Medium,Suburban,90,34,57,6,Low,Good
+54,16,1970,Traditional,2,High,2.4,Medium,Rural,78,8,52,7,Low,Excellent
+79,16,1945,Vegan,6,Medium,4.4,Medium,Rural,91,19,37,4,Low,Average
+49,11,1975,Fast Food,3,Medium,1.2,High,Urban,26,11,42,8,Moderate,Good
+43,17,1981,Processed,3,High,1.8,Medium,Rural,77,7,62,8,High,Good
+19,17,2005,Vegan,6,Low,0.9,Low,Urban,16,17,22,1,Low,Average
+29,16,1995,Traditional,8,Medium,1.4,Low,Suburban,98,14,49,8,High,Average
+39,11,1985,Vegan,1,High,1.6,Medium,Suburban,49,27,64,3,High,Excellent
+34,16,1990,Processed,8,High,4.6,Medium,Urban,49,6,36,5,High,Poor
+24,17,2000,Traditional,2,Medium,0.9,Medium,Suburban,52,16,69,8,Moderate,Poor
+60,16,1964,Processed,5,Low,2.4,Medium,Urban,82,32,77,6,Moderate,Average
+21,13,2003,Fast Food,3,High,2.9,Medium,Rural,92,28,77,4,Low,Poor
+54,16,1970,Vegan,0,Medium,4.5,Low,Suburban,60,32,51,4,High,Excellent
+55,13,1969,Processed,8,High,5.0,High,Rural,82,26,65,4,Moderate,Poor
+49,16,1975,Fast Food,5,High,3.9,Medium,Rural,32,16,76,6,Moderate,Average
+28,12,1996,Traditional,7,High,4.9,Medium,Urban,41,23,26,7,Moderate,Excellent
+18,12,2006,Traditional,1,High,4.0,Medium,Suburban,40,23,58,5,Low,Average
+42,12,1982,Fast Food,6,Low,4.8,Low,Suburban,26,25,33,8,Moderate,Excellent
+59,16,1965,Fast Food,5,Medium,3.7,Low,Rural,67,7,77,7,High,Excellent
+69,11,1955,Traditional,1,Medium,0.9,High,Rural,95,10,75,8,Moderate,Average
+41,17,1983,Processed,1,Medium,2.3,High,Urban,44,6,34,4,Moderate,Good
+70,11,1954,Fast Food,3,Medium,3.4,High,Suburban,39,28,63,8,Low,Average
+60,16,1964,Processed,3,Medium,2.1,High,Urban,73,17,31,6,High,Excellent
+73,16,1951,Traditional,2,Low,1.7,Low,Urban,62,31,27,3,Moderate,Average
+34,11,1990,Processed,7,High,3.1,High,Urban,60,32,35,8,High,Average
+25,13,1999,Processed,6,High,4.7,Medium,Suburban,46,31,60,7,High,Excellent
+76,12,1948,Fast Food,1,Medium,0.7,Low,Urban,99,13,53,5,Moderate,Poor
+62,13,1962,Processed,2,High,4.0,Low,Suburban,15,17,65,4,Low,Excellent
+44,12,1980,Processed,9,High,3.8,Low,Urban,43,27,43,1,High,Average
+69,16,1955,Processed,8,High,4.8,Medium,Rural,65,18,75,3,Moderate,Excellent
+35,12,1989,Traditional,4,Medium,4.7,Low,Urban,34,23,48,2,High,Excellent
+44,11,1980,Traditional,1,Medium,3.9,Medium,Urban,22,15,35,8,High,Poor
+39,17,1985,Vegan,2,Low,2.8,High,Suburban,72,18,24,8,High,Good
+33,16,1991,Traditional,7,Medium,1.4,Low,Rural,75,20,24,5,Moderate,Average
+19,13,2005,Traditional,3,Low,3.0,Medium,Rural,14,14,71,5,High,Average
+22,17,2002,Vegan,1,Medium,3.9,Low,Suburban,84,24,49,4,High,Poor
+35,16,1989,Vegan,1,High,4.5,High,Suburban,20,20,72,1,Low,Excellent
+20,12,2004,Fast Food,5,Low,4.1,Low,Rural,97,32,69,1,Moderate,Good
+44,16,1980,Fast Food,7,Low,1.4,High,Suburban,87,30,69,6,Moderate,Average
+71,13,1953,Traditional,6,Low,3.2,Low,Rural,53,6,24,4,High,Good
+34,13,1990,Processed,3,Medium,2.0,Medium,Urban,94,29,62,4,Low,Good
+33,17,1991,Fast Food,1,Low,0.5,High,Urban,78,20,32,3,High,Excellent
+23,16,2001,Fast Food,8,Medium,1.4,Low,Rural,11,18,54,9,High,Excellent
+68,16,1956,Traditional,3,Low,1.0,High,Rural,49,25,68,3,Moderate,Excellent
+24,12,2000,Processed,8,Medium,4.3,High,Urban,46,32,44,8,Low,Average
+67,13,1957,Vegan,4,Low,1.7,Medium,Urban,58,22,69,2,High,Good
+31,11,1993,Vegan,6,High,1.8,Medium,Rural,84,30,33,4,Moderate,Good
+55,17,1969,Traditional,4,High,4.8,Medium,Suburban,45,10,63,1,High,Average
+57,12,1967,Traditional,1,Low,2.2,Medium,Suburban,84,11,65,5,High,Poor
+32,16,1992,Processed,5,Medium,0.5,High,Rural,82,17,45,2,Low,Excellent
+64,11,1960,Traditional,6,Medium,1.8,High,Suburban,79,6,37,1,Low,Average
+64,12,1960,Traditional,5,Medium,1.0,Low,Urban,43,19,39,1,Low,Excellent
+65,17,1959,Traditional,2,High,1.0,Low,Urban,67,21,53,2,High,Good
+50,17,1974,Processed,9,High,0.8,Low,Suburban,46,17,26,5,Low,Average
+60,13,1964,Traditional,7,High,3.2,Medium,Rural,69,11,66,9,Moderate,Poor
+44,13,1980,Fast Food,2,Medium,1.4,High,Urban,21,5,79,6,High,Excellent
+46,13,1978,Processed,4,Medium,2.1,High,Urban,41,7,29,4,Low,Good
+74,17,1950,Fast Food,8,Medium,4.4,Low,Urban,90,24,34,3,High,Good
+54,17,1970,Processed,4,Low,2.4,Low,Suburban,13,22,36,8,High,Poor
+22,17,2002,Fast Food,6,Low,4.6,High,Rural,42,11,30,3,Moderate,Poor
+46,16,1978,Processed,6,Low,2.7,Medium,Suburban,52,25,53,1,Moderate,Excellent
+49,13,1975,Vegan,4,High,2.3,Low,Rural,18,21,46,4,Moderate,Good
+77,11,1947,Traditional,1,High,3.9,Low,Rural,60,32,40,5,High,Poor
+70,16,1954,Traditional,4,Medium,0.8,High,Suburban,29,16,50,5,High,Average
+23,16,2001,Processed,6,Low,0.9,High,Urban,48,20,69,5,Moderate,Poor
+19,16,2005,Fast Food,6,Medium,3.4,Low,Rural,32,28,76,8,High,Average
+23,13,2001,Vegan,3,Low,2.7,Low,Suburban,50,14,23,8,Moderate,Good
+63,17,1961,Fast Food,0,Low,4.1,Medium,Urban,53,27,60,4,Moderate,Excellent
+60,16,1964,Traditional,5,Medium,4.6,Medium,Rural,44,20,78,9,Low,Good
+21,16,2003,Traditional,2,Medium,2.2,Medium,Rural,32,24,79,1,Moderate,Good
+73,17,1951,Fast Food,4,Low,3.2,Medium,Urban,67,22,68,5,Low,Good
+46,12,1978,Processed,3,Low,2.8,Low,Rural,57,19,36,5,Moderate,Good
+76,13,1948,Processed,1,High,4.9,Low,Suburban,96,27,68,5,High,Excellent
+42,12,1982,Fast Food,6,Medium,4.2,Low,Rural,67,15,67,8,Low,Poor
+26,17,1998,Traditional,4,Medium,4.6,Medium,Rural,66,22,39,9,High,Excellent
+73,16,1951,Fast Food,6,Medium,1.6,Low,Urban,96,10,44,3,High,Excellent
+20,17,2004,Traditional,8,Medium,4.0,High,Suburban,48,5,59,9,Moderate,Excellent
+43,16,1981,Fast Food,3,Low,1.7,Medium,Urban,37,34,42,8,Moderate,Excellent
+65,17,1959,Processed,4,High,1.4,High,Suburban,73,27,34,3,High,Poor
+60,16,1964,Vegan,8,Medium,4.7,Medium,Urban,71,11,52,2,Moderate,Good
+44,12,1980,Traditional,9,Low,0.6,Low,Rural,92,16,38,4,Moderate,Poor
+53,16,1971,Vegan,3,Low,4.8,Medium,Suburban,71,24,76,2,Moderate,Poor
+49,17,1975,Processed,4,Low,1.2,High,Suburban,94,8,34,4,High,Good
+18,17,2006,Fast Food,4,Low,4.2,Medium,Rural,97,14,60,5,Low,Poor
+74,16,1950,Processed,7,Low,1.7,High,Urban,94,25,24,2,Low,Excellent
+70,12,1954,Vegan,3,Medium,2.1,Low,Suburban,35,6,35,8,High,Excellent
+71,11,1953,Processed,3,Medium,1.5,High,Rural,60,13,79,1,Moderate,Good
+33,16,1991,Processed,6,High,3.1,Low,Rural,59,14,64,3,Moderate,Good
+68,12,1956,Fast Food,4,Medium,2.1,High,Suburban,45,24,67,7,Low,Good
+65,12,1959,Vegan,5,Low,3.5,Low,Suburban,35,15,51,1,High,Excellent
+28,13,1996,Vegan,5,High,0.6,High,Suburban,42,29,41,2,High,Good
+43,11,1981,Vegan,5,Low,0.8,Low,Rural,77,18,62,3,Moderate,Poor
+57,16,1967,Traditional,9,Low,0.9,Low,Urban,82,7,51,2,Moderate,Poor
+72,16,1952,Processed,4,Medium,2.4,Low,Urban,17,29,32,2,Moderate,Average
+18,16,2006,Vegan,4,Low,4.2,High,Suburban,75,5,57,6,High,Average
+43,16,1981,Processed,8,Medium,4.5,High,Rural,32,11,45,7,Low,Good
+45,11,1979,Fast Food,7,Low,1.6,Low,Rural,79,8,71,6,High,Average
+70,13,1954,Fast Food,3,High,3.1,Medium,Suburban,64,11,36,6,High,Excellent
+75,16,1949,Traditional,6,Low,4.0,Low,Rural,52,20,24,9,High,Excellent
+26,11,1998,Traditional,7,Medium,1.8,Medium,Rural,30,34,68,8,Low,Poor
+77,17,1947,Fast Food,8,Low,2.3,Low,Rural,31,14,52,8,Moderate,Poor
+76,13,1948,Vegan,4,Medium,2.9,High,Suburban,18,19,46,6,Moderate,Average
+61,11,1963,Fast Food,2,Medium,1.1,Medium,Suburban,43,20,24,5,High,Average
+39,16,1985,Processed,3,High,0.6,High,Suburban,68,10,56,9,High,Excellent
+25,11,1999,Traditional,9,Medium,1.2,Medium,Urban,35,8,26,2,Low,Poor
+75,17,1949,Traditional,5,High,3.3,Medium,Urban,10,8,67,7,Low,Average
+66,16,1958,Fast Food,9,High,0.8,Medium,Suburban,14,28,37,6,Moderate,Excellent
+59,16,1965,Vegan,4,Low,1.4,Medium,Rural,50,27,50,7,High,Poor
+44,16,1980,Vegan,8,High,2.0,High,Rural,72,8,25,4,Low,Excellent
+56,16,1968,Processed,2,Medium,0.9,Medium,Suburban,31,31,21,9,Low,Excellent
+36,11,1988,Traditional,1,Medium,1.4,Low,Rural,77,26,32,7,High,Poor
+42,11,1982,Fast Food,5,High,4.6,Low,Rural,57,26,61,2,High,Excellent
+55,11,1969,Fast Food,6,Low,0.6,Medium,Urban,75,21,72,4,High,Average
+38,17,1986,Traditional,4,High,3.4,High,Rural,25,17,71,5,High,Excellent
+41,11,1983,Fast Food,0,High,2.2,High,Rural,89,6,30,2,High,Average
+41,16,1983,Traditional,2,Medium,3.5,Medium,Suburban,62,24,45,8,High,Good
+77,11,1947,Vegan,2,Low,3.1,High,Urban,95,10,40,1,Low,Good
+77,17,1947,Vegan,3,Low,1.5,High,Urban,74,26,21,3,High,Good
+36,12,1988,Fast Food,9,Low,4.3,High,Rural,88,5,59,1,Moderate,Excellent
+67,17,1957,Vegan,5,Low,2.7,Medium,Suburban,73,12,75,5,High,Good
+64,13,1960,Vegan,4,Medium,4.2,Low,Urban,97,22,73,8,Moderate,Good
+19,12,2005,Processed,0,Low,2.3,Low,Urban,77,33,70,7,Moderate,Excellent
+31,13,1993,Traditional,5,Low,4.9,Low,Rural,72,25,39,9,Moderate,Poor
+70,12,1954,Traditional,8,Low,4.0,Low,Urban,71,8,36,2,High,Excellent
+49,17,1975,Fast Food,0,Medium,4.8,Low,Suburban,91,9,35,8,High,Average
+59,13,1965,Traditional,7,Medium,2.8,High,Suburban,90,9,76,8,Moderate,Excellent
+49,12,1975,Processed,7,Low,2.6,High,Urban,80,19,61,6,High,Poor
+45,17,1979,Fast Food,2,Medium,3.9,High,Suburban,54,14,24,3,Low,Good
+65,17,1959,Fast Food,8,High,4.5,Medium,Suburban,61,12,33,2,Low,Excellent
+56,16,1968,Traditional,7,Low,4.8,High,Rural,83,30,43,8,Low,Good
+57,17,1967,Vegan,2,Medium,2.0,Low,Urban,74,11,70,6,Low,Average
+59,12,1965,Vegan,9,Low,4.1,High,Urban,11,16,23,4,High,Poor
+64,17,1960,Vegan,4,Low,1.4,Low,Rural,58,34,71,5,Moderate,Good
+57,11,1967,Vegan,2,Medium,3.0,High,Rural,31,29,67,5,High,Good
+30,17,1994,Processed,4,High,1.3,Low,Rural,38,32,43,9,Low,Good
+29,17,1995,Fast Food,8,Low,2.1,High,Rural,44,15,66,9,High,Good
+25,12,1999,Vegan,3,High,4.7,Low,Suburban,90,17,79,8,High,Excellent
+32,13,1992,Processed,5,Medium,1.2,Low,Suburban,85,19,28,8,Low,Poor
+43,11,1981,Fast Food,2,Low,3.3,Medium,Rural,33,21,22,2,Moderate,Poor
+29,16,1995,Traditional,2,Medium,3.2,High,Urban,39,26,74,3,High,Good
+60,16,1964,Traditional,4,Medium,1.0,Low,Urban,93,26,28,8,High,Poor
+68,17,1956,Processed,7,Medium,2.0,High,Urban,51,22,37,5,Low,Good
+63,17,1961,Fast Food,7,Medium,3.0,Low,Rural,80,31,55,7,Moderate,Average
+44,11,1980,Vegan,2,Low,1.3,Medium,Suburban,59,12,38,8,Low,Average
+35,11,1989,Fast Food,7,High,4.1,Medium,Suburban,80,10,43,6,Low,Average
+62,12,1962,Vegan,7,High,4.9,Medium,Suburban,69,15,23,5,High,Poor
+53,12,1971,Processed,2,Low,1.5,Medium,Suburban,39,33,28,8,Moderate,Good
+66,13,1958,Vegan,9,Low,1.3,Low,Urban,21,30,52,1,Low,Excellent
+68,13,1956,Processed,9,High,2.5,High,Urban,58,13,20,1,High,Excellent
+44,11,1980,Fast Food,1,High,3.9,Medium,Suburban,91,30,71,1,Low,Average
+26,16,1998,Fast Food,9,Low,1.8,Medium,Rural,55,9,70,3,High,Average
+72,13,1952,Vegan,1,Medium,0.6,Medium,Suburban,52,11,54,6,Moderate,Poor
+56,13,1968,Fast Food,8,Low,2.9,High,Suburban,11,26,29,6,Low,Excellent
+18,17,2006,Vegan,6,High,4.8,Low,Rural,84,31,31,5,Moderate,Poor
+24,17,2000,Fast Food,5,Medium,2.3,Low,Suburban,89,19,37,7,Moderate,Average
+43,13,1981,Traditional,6,High,2.4,Low,Urban,63,25,33,5,High,Good
+24,17,2000,Vegan,7,Medium,4.9,Low,Rural,44,26,29,2,Low,Good
+69,11,1955,Processed,0,High,3.6,High,Rural,61,8,29,4,Low,Good
+24,12,2000,Traditional,7,Medium,3.7,High,Suburban,42,23,37,1,High,Average
+25,13,1999,Processed,2,Low,3.0,High,Urban,94,17,43,7,High,Poor
+33,13,1991,Fast Food,2,Low,4.9,Medium,Urban,93,5,20,4,Moderate,Good
+20,16,2004,Traditional,5,Medium,3.6,High,Urban,81,5,49,4,Low,Excellent
+62,17,1962,Fast Food,3,Medium,4.5,Low,Suburban,60,26,34,4,Low,Excellent
+27,16,1997,Vegan,3,Low,3.6,High,Suburban,35,18,27,3,High,Average
+67,16,1957,Processed,3,Low,3.8,Medium,Urban,71,13,77,8,High,Excellent
+24,17,2000,Fast Food,9,Medium,1.8,Low,Suburban,70,28,54,4,High,Excellent
+38,11,1986,Processed,8,Medium,1.9,High,Urban,35,16,37,8,Low,Average
+70,11,1954,Processed,7,Low,4.0,Low,Suburban,46,22,60,9,Low,Poor
+79,16,1945,Fast Food,2,High,1.8,Low,Rural,39,13,35,1,Moderate,Good
+54,12,1970,Vegan,0,Low,3.0,High,Rural,20,12,40,4,High,Average
+48,11,1976,Processed,0,Medium,1.6,High,Suburban,62,34,34,6,Moderate,Excellent
+40,16,1984,Fast Food,0,Medium,4.2,Medium,Suburban,50,18,24,8,Low,Good
+74,17,1950,Vegan,3,High,1.0,High,Urban,14,32,64,6,Moderate,Good
+44,17,1980,Fast Food,5,Low,4.2,High,Rural,75,13,73,6,Moderate,Good
+73,13,1951,Vegan,3,Medium,3.2,High,Urban,22,24,71,4,Moderate,Average
+39,16,1985,Processed,2,Low,1.3,Low,Suburban,72,29,26,9,High,Good
+56,16,1968,Traditional,7,Medium,2.9,Medium,Urban,91,6,67,7,Low,Poor
+74,12,1950,Fast Food,7,High,1.8,Low,Urban,99,33,26,6,High,Excellent
+79,12,1945,Processed,5,Low,2.0,High,Suburban,34,5,46,1,Moderate,Average
+44,13,1980,Fast Food,8,Low,2.1,Medium,Rural,53,17,44,2,High,Average
+71,17,1953,Fast Food,9,High,0.8,High,Urban,23,29,41,6,Low,Good
+66,17,1958,Vegan,0,Medium,4.9,Low,Suburban,78,14,67,1,Low,Excellent
+21,13,2003,Fast Food,7,Medium,0.6,Low,Urban,68,12,32,5,Moderate,Good
+41,13,1983,Vegan,5,Low,3.5,High,Suburban,65,11,36,1,Moderate,Good
+40,17,1984,Processed,0,High,2.2,Medium,Suburban,61,34,60,3,High,Average
+65,12,1959,Fast Food,3,Low,3.4,Low,Suburban,75,33,63,7,Low,Poor
+36,16,1988,Processed,4,Low,2.1,High,Rural,77,28,32,5,Low,Excellent
+59,16,1965,Traditional,6,Medium,3.5,High,Rural,21,16,45,1,High,Excellent
+20,13,2004,Processed,7,Medium,3.8,High,Suburban,84,21,28,1,Low,Excellent
+44,12,1980,Fast Food,8,Medium,3.6,Medium,Rural,77,34,24,8,Moderate,Excellent
+20,17,2004,Traditional,5,Medium,1.0,High,Urban,52,29,58,9,Moderate,Poor
+45,12,1979,Vegan,9,Medium,3.5,High,Rural,82,16,52,7,High,Average
+34,11,1990,Traditional,8,High,1.8,Low,Rural,83,20,23,3,High,Poor
+48,11,1976,Fast Food,3,Low,0.6,High,Urban,15,14,47,6,High,Good
+27,13,1997,Fast Food,7,High,2.4,Medium,Urban,24,31,45,3,Moderate,Average
+66,16,1958,Processed,2,Low,2.5,High,Urban,51,29,23,4,High,Poor
+39,16,1985,Vegan,3,Medium,2.6,Medium,Suburban,40,16,35,4,Low,Excellent
+47,17,1977,Fast Food,9,High,3.7,High,Urban,95,15,56,3,High,Excellent
+79,12,1945,Fast Food,3,Low,1.9,High,Urban,62,29,41,6,Low,Average
+66,16,1958,Vegan,5,Medium,1.9,High,Urban,15,33,55,5,Moderate,Poor
+38,13,1986,Vegan,8,Medium,0.8,Medium,Suburban,42,18,57,9,Low,Average
+53,16,1971,Processed,5,High,3.6,Low,Rural,38,26,77,9,Low,Excellent
+70,17,1954,Traditional,0,High,3.1,Medium,Suburban,30,24,74,3,Low,Poor
+40,11,1984,Vegan,4,High,2.1,Low,Rural,63,17,54,9,Moderate,Excellent
+55,17,1969,Fast Food,8,Medium,3.7,Medium,Urban,65,6,44,3,Low,Average
+29,16,1995,Vegan,4,Low,2.9,High,Suburban,30,31,27,4,Low,Average
+42,16,1982,Fast Food,5,Low,2.6,High,Suburban,64,24,36,1,High,Average
+71,11,1953,Processed,2,High,2.8,Low,Rural,67,11,37,5,High,Average
+74,11,1950,Traditional,7,Low,3.4,Low,Suburban,73,5,69,9,High,Average
+37,16,1987,Processed,9,Medium,3.5,Medium,Suburban,95,34,77,2,Low,Good
+66,11,1958,Vegan,3,Low,1.8,Medium,Rural,55,29,76,4,Low,Average
+66,16,1958,Fast Food,3,Medium,1.1,Low,Suburban,93,7,31,2,Moderate,Average
+59,16,1965,Vegan,4,High,1.2,Low,Suburban,31,33,76,8,Low,Excellent
+24,17,2000,Vegan,9,Low,3.4,Medium,Urban,69,33,76,9,Low,Average
+46,16,1978,Vegan,8,Medium,4.4,Low,Urban,20,24,52,3,Moderate,Poor
+65,12,1959,Vegan,7,High,2.3,Low,Urban,56,16,42,9,Low,Average
+46,16,1978,Traditional,6,High,1.3,Low,Urban,40,9,31,6,Moderate,Good
+30,16,1994,Fast Food,4,High,3.9,Low,Urban,86,16,30,6,Moderate,Average
+20,12,2004,Vegan,8,High,4.2,High,Suburban,27,33,32,7,High,Excellent
+19,17,2005,Fast Food,8,Low,4.5,High,Suburban,31,7,54,5,Low,Poor
+33,13,1991,Traditional,9,Medium,3.2,Low,Urban,65,24,46,6,High,Poor
+47,11,1977,Fast Food,9,Low,4.4,Medium,Rural,26,9,44,1,Low,Average
+55,11,1969,Fast Food,1,Medium,0.6,High,Urban,47,32,59,3,High,Average
+23,16,2001,Traditional,3,High,1.0,Medium,Suburban,34,5,22,9,Moderate,Average
+62,17,1962,Vegan,7,Low,0.9,Medium,Rural,41,20,68,5,Moderate,Average
+24,13,2000,Fast Food,0,High,3.7,High,Urban,24,34,44,5,Moderate,Excellent
+22,16,2002,Processed,4,Medium,0.8,Medium,Rural,22,13,64,8,Moderate,Excellent
+73,13,1951,Fast Food,7,High,2.7,Medium,Urban,67,14,29,2,Low,Poor
+24,11,2000,Vegan,1,Low,2.6,Low,Suburban,99,33,36,7,Low,Average
+51,11,1973,Processed,1,Low,1.9,Low,Urban,59,14,22,9,High,Excellent
+49,13,1975,Vegan,7,Medium,4.4,Low,Rural,20,17,64,7,Low,Excellent
+66,17,1958,Fast Food,9,Medium,1.3,High,Suburban,22,20,41,5,Low,Poor
+30,16,1994,Traditional,8,Low,2.1,Low,Urban,59,34,57,6,High,Poor
+47,12,1977,Vegan,6,Low,4.0,Medium,Urban,47,24,33,4,Moderate,Good
+42,11,1982,Vegan,7,Low,0.6,Medium,Urban,10,33,46,7,High,Excellent
+38,16,1986,Traditional,4,Low,3.5,Medium,Urban,48,29,61,1,High,Poor
+77,16,1947,Fast Food,0,Medium,4.2,Medium,Suburban,36,8,39,4,Moderate,Excellent
+76,12,1948,Vegan,3,Low,4.7,Medium,Suburban,45,18,67,3,High,Excellent
+38,17,1986,Fast Food,1,Medium,4.4,High,Urban,41,21,37,4,High,Average
+45,17,1979,Fast Food,2,Low,1.9,Medium,Suburban,50,32,32,1,High,Average
+65,17,1959,Fast Food,2,Low,3.1,High,Rural,24,9,61,2,Low,Average
+75,13,1949,Traditional,8,High,0.8,Medium,Suburban,40,17,25,9,Moderate,Average
+37,11,1987,Fast Food,9,High,1.7,High,Rural,15,29,29,7,Moderate,Excellent
+51,13,1973,Fast Food,3,Low,0.9,High,Rural,98,7,56,6,High,Good
+22,12,2002,Processed,1,Medium,1.9,Medium,Suburban,61,9,48,2,Low,Good
+35,13,1989,Processed,2,Low,4.4,Medium,Urban,91,20,25,1,Moderate,Good
+77,17,1947,Processed,2,High,2.1,Medium,Suburban,31,23,58,2,Moderate,Excellent
+56,12,1968,Vegan,6,Low,3.0,Medium,Rural,40,32,30,7,High,Good
+60,17,1964,Vegan,7,High,2.5,Low,Rural,82,23,67,2,High,Excellent
+74,12,1950,Processed,5,Low,2.6,Low,Suburban,55,21,44,3,High,Poor
+74,13,1950,Traditional,3,Low,4.9,High,Rural,76,22,63,8,Moderate,Good
+28,17,1996,Traditional,5,Medium,1.8,High,Suburban,52,22,63,7,High,Excellent
+71,12,1953,Processed,0,High,3.3,Low,Suburban,10,29,49,9,High,Poor
+34,17,1990,Vegan,9,High,2.4,High,Urban,53,27,74,4,High,Average
+65,16,1959,Vegan,7,High,0.8,Medium,Rural,66,12,39,7,Low,Poor
+62,11,1962,Traditional,0,Medium,2.7,High,Suburban,18,22,77,1,High,Poor
+39,16,1985,Fast Food,4,Low,4.2,High,Rural,14,13,56,2,Moderate,Good
+54,13,1970,Traditional,1,Medium,0.9,High,Suburban,88,33,35,7,High,Average
+37,17,1987,Fast Food,5,Low,0.8,Low,Suburban,18,23,50,2,Moderate,Average
+65,12,1959,Vegan,8,Medium,1.2,Low,Urban,54,14,48,6,Low,Good
+77,17,1947,Vegan,4,Medium,3.9,High,Suburban,86,33,25,9,Low,Poor
+71,13,1953,Processed,3,High,3.8,Medium,Urban,33,6,48,5,High,Excellent
+71,17,1953,Vegan,1,Medium,3.0,High,Rural,83,32,51,7,Moderate,Good
+65,17,1959,Fast Food,2,Low,2.6,Low,Urban,51,21,28,1,High,Poor
+65,12,1959,Traditional,5,Medium,4.5,Medium,Urban,31,29,56,8,High,Excellent
+63,13,1961,Processed,7,Medium,4.0,High,Rural,69,28,72,9,Moderate,Good
+23,13,2001,Fast Food,7,Low,4.2,Low,Urban,95,17,42,5,Moderate,Good
+51,11,1973,Traditional,4,High,4.2,Medium,Urban,46,32,35,6,Moderate,Average
+31,17,1993,Traditional,4,Low,3.4,High,Suburban,48,15,37,8,Moderate,Average
+65,16,1959,Traditional,9,Low,2.6,Low,Urban,93,20,38,4,Moderate,Average
+40,16,1984,Vegan,2,Low,4.4,Medium,Suburban,83,24,63,2,Low,Excellent
+79,12,1945,Traditional,6,Medium,4.7,High,Urban,83,11,21,8,Low,Good
+37,12,1987,Vegan,5,Medium,0.6,Medium,Rural,99,32,77,2,Low,Average
+30,17,1994,Traditional,0,Low,0.7,Medium,Rural,98,34,29,5,Moderate,Average
+64,17,1960,Traditional,3,Low,4.8,Medium,Urban,62,7,31,6,Moderate,Good
+61,11,1963,Vegan,5,High,1.7,Low,Suburban,37,20,65,5,Moderate,Excellent
+58,13,1966,Vegan,5,Medium,4.4,High,Urban,86,23,37,6,High,Average
+49,13,1975,Fast Food,2,Medium,2.2,Medium,Suburban,24,24,38,6,Low,Poor
+43,11,1981,Traditional,5,Medium,1.0,Medium,Urban,69,20,57,3,Low,Excellent
+67,17,1957,Vegan,9,Medium,0.9,Medium,Rural,69,6,56,3,High,Average
+70,13,1954,Fast Food,5,Low,1.2,Low,Rural,15,18,46,9,High,Poor
+31,17,1993,Fast Food,8,Low,1.6,Medium,Suburban,61,30,67,3,Low,Average
+69,17,1955,Vegan,8,High,2.7,Low,Urban,21,24,33,3,Moderate,Excellent
+74,13,1950,Traditional,1,Medium,3.7,Low,Suburban,28,14,64,2,Low,Good
+53,11,1971,Fast Food,3,Medium,4.9,Medium,Rural,84,23,72,7,Moderate,Good
+25,16,1999,Traditional,8,Low,2.5,Medium,Suburban,11,28,53,4,Low,Excellent
+57,16,1967,Traditional,3,High,2.8,Low,Urban,64,15,21,1,Low,Average
+39,16,1985,Fast Food,7,Low,2.8,Low,Suburban,24,22,63,6,High,Excellent
+39,17,1985,Vegan,9,Medium,2.9,Medium,Urban,73,15,52,5,High,Poor
+33,16,1991,Traditional,2,Medium,2.8,Low,Urban,78,13,38,2,Moderate,Average
+44,16,1980,Processed,2,High,0.5,Low,Rural,24,23,79,6,Moderate,Excellent
+73,16,1951,Vegan,8,Low,0.5,Medium,Urban,52,24,79,1,Low,Good
+77,16,1947,Fast Food,9,Medium,0.9,Medium,Urban,83,33,46,3,High,Excellent
+78,16,1946,Processed,7,Medium,1.0,High,Urban,26,14,67,4,Moderate,Average
+77,16,1947,Traditional,0,High,3.7,Medium,Suburban,33,34,49,3,Moderate,Excellent
+27,12,1997,Vegan,9,Medium,1.4,Medium,Rural,83,30,26,6,Moderate,Good
+42,16,1982,Processed,1,Medium,4.5,Medium,Suburban,39,7,46,4,Low,Poor
+48,12,1976,Vegan,2,Low,4.7,High,Suburban,76,7,40,1,Moderate,Excellent
+38,11,1986,Traditional,1,High,4.9,Low,Rural,60,28,26,5,Moderate,Excellent
+44,17,1980,Vegan,2,High,4.7,Medium,Suburban,69,12,67,5,High,Poor
+34,16,1990,Processed,7,High,1.7,Medium,Suburban,12,33,44,9,High,Excellent
+50,13,1974,Vegan,5,Low,2.8,High,Urban,14,33,57,8,High,Good
+48,16,1976,Fast Food,6,High,1.3,High,Suburban,37,10,37,8,Low,Poor
+67,16,1957,Fast Food,9,Medium,4.1,High,Rural,87,24,52,5,High,Good
+59,12,1965,Processed,9,High,4.5,Low,Suburban,20,5,52,8,High,Good
+43,11,1981,Vegan,5,Medium,4.3,High,Urban,81,24,51,7,High,Good
+38,13,1986,Processed,0,High,2.5,Low,Suburban,81,28,77,1,High,Average
+53,13,1971,Vegan,2,High,3.9,Medium,Rural,85,10,44,7,Moderate,Poor
+18,17,2006,Traditional,0,Low,0.9,Medium,Urban,24,6,33,8,Low,Average
+21,17,2003,Fast Food,9,High,0.7,Medium,Suburban,92,23,57,3,Moderate,Average
+21,17,2003,Traditional,8,High,3.9,High,Rural,57,32,57,9,Moderate,Excellent
+43,12,1981,Vegan,8,Low,2.4,Medium,Rural,55,11,23,8,Low,Poor
+21,17,2003,Traditional,4,Medium,5.0,High,Suburban,37,15,63,2,Moderate,Excellent
+66,17,1958,Processed,3,High,0.9,Low,Suburban,16,15,37,6,High,Average
+26,17,1998,Processed,8,High,4.4,Medium,Urban,80,8,29,4,Low,Excellent
+47,13,1977,Vegan,8,Medium,2.7,Low,Suburban,91,24,54,3,Moderate,Good
+68,17,1956,Fast Food,2,Low,4.2,High,Urban,97,20,54,6,Moderate,Average
+62,17,1962,Processed,4,High,4.2,High,Suburban,15,9,59,9,High,Good
+21,16,2003,Fast Food,2,Low,4.6,Medium,Rural,67,28,73,2,Moderate,Poor
+22,13,2002,Vegan,9,Medium,1.8,Medium,Rural,77,34,42,5,Moderate,Excellent
+78,12,1946,Fast Food,1,Medium,4.8,High,Rural,64,34,44,6,Moderate,Average
+62,13,1962,Vegan,0,Low,1.2,Medium,Rural,76,11,20,4,Low,Poor
+40,11,1984,Traditional,9,Medium,0.9,Medium,Urban,58,29,37,7,Low,Good
+33,12,1991,Vegan,1,Medium,2.4,Low,Rural,60,20,34,2,Moderate,Excellent
+39,16,1985,Traditional,7,High,4.2,High,Urban,68,19,44,7,Moderate,Excellent
+54,17,1970,Vegan,7,Low,2.6,Low,Urban,15,9,51,2,High,Average
+25,13,1999,Processed,2,High,4.2,Medium,Urban,99,5,72,1,Low,Excellent
+65,16,1959,Processed,6,Low,3.8,Low,Suburban,60,24,39,5,Low,Excellent
+79,17,1945,Fast Food,6,High,1.4,High,Urban,47,26,36,2,Low,Good
+50,11,1974,Vegan,1,Medium,4.8,Low,Suburban,20,26,76,8,Moderate,Good
+72,13,1952,Vegan,8,Low,0.8,Low,Urban,61,13,30,8,High,Good
+77,13,1947,Vegan,2,Low,4.5,Medium,Suburban,29,30,32,1,High,Poor
+55,16,1969,Fast Food,1,Low,1.9,High,Suburban,19,33,44,4,Moderate,Poor
+60,11,1964,Processed,2,Low,2.8,Medium,Rural,35,25,39,9,Moderate,Excellent
+33,13,1991,Vegan,1,Medium,2.4,Medium,Urban,57,9,44,5,High,Poor
+22,11,2002,Fast Food,7,Medium,1.3,High,Suburban,23,26,61,6,High,Average
+33,11,1991,Vegan,4,Medium,2.1,Low,Rural,68,31,64,3,Low,Good
+24,12,2000,Traditional,2,High,1.4,Medium,Urban,21,10,68,5,Moderate,Poor
+68,12,1956,Vegan,4,Medium,1.4,Low,Rural,32,7,50,1,Low,Excellent
+18,12,2006,Traditional,7,High,1.3,High,Suburban,94,10,72,8,High,Good
+26,16,1998,Fast Food,6,High,2.7,Medium,Rural,81,12,20,6,Low,Poor
+35,11,1989,Fast Food,5,Medium,4.1,Low,Rural,48,32,71,2,High,Good
+62,17,1962,Processed,0,Medium,3.1,Low,Urban,18,10,35,4,High,Poor
+75,11,1949,Vegan,9,Medium,4.5,Medium,Suburban,97,20,67,4,Low,Excellent
+64,16,1960,Fast Food,0,High,3.4,High,Urban,34,32,47,9,Moderate,Poor
+20,17,2004,Processed,0,Low,3.6,Low,Urban,26,20,40,9,Low,Poor
+41,13,1983,Vegan,9,Medium,3.5,High,Rural,51,31,49,5,Low,Poor
+45,16,1979,Fast Food,7,High,2.5,Medium,Suburban,38,25,78,3,Moderate,Good
+27,17,1997,Traditional,7,High,3.6,Low,Urban,69,7,22,1,Moderate,Poor
+26,11,1998,Fast Food,6,Medium,0.8,Low,Suburban,76,21,53,6,Low,Poor
+30,17,1994,Traditional,5,High,4.4,Low,Urban,94,25,25,8,High,Poor
+65,16,1959,Processed,3,Medium,4.0,High,Rural,66,10,62,1,Low,Good
+52,12,1972,Processed,0,High,1.6,Low,Urban,81,34,48,1,High,Excellent
+71,16,1953,Vegan,8,Low,4.0,Low,Urban,23,10,22,7,Moderate,Excellent
+40,12,1984,Vegan,0,High,0.6,Medium,Urban,48,34,77,7,Moderate,Excellent
+64,12,1960,Vegan,3,Medium,1.5,Low,Suburban,25,26,52,2,High,Poor
+34,12,1990,Processed,2,Low,0.8,High,Rural,27,23,30,3,Low,Good
+63,13,1961,Traditional,6,Medium,4.0,Medium,Suburban,84,24,64,2,Moderate,Excellent
+24,12,2000,Vegan,4,High,3.9,Medium,Urban,29,19,24,6,High,Excellent
+69,11,1955,Vegan,4,Low,4.2,Low,Rural,55,23,69,8,High,Excellent
+33,12,1991,Processed,3,Low,0.5,Medium,Suburban,54,6,51,8,Low,Average
+70,16,1954,Traditional,0,High,2.8,Low,Urban,13,12,66,1,High,Good
+57,17,1967,Fast Food,4,Low,3.7,Medium,Rural,93,11,37,9,High,Average
+53,12,1971,Vegan,3,Low,1.2,High,Rural,29,31,66,8,Low,Poor
+37,13,1987,Fast Food,9,Low,3.4,Low,Urban,20,12,39,9,Moderate,Excellent
+41,17,1983,Fast Food,7,Medium,0.9,High,Rural,74,17,71,9,Moderate,Poor
+64,12,1960,Vegan,1,Medium,1.3,Low,Rural,27,26,71,6,Moderate,Good
+22,13,2002,Processed,7,Low,2.6,High,Suburban,48,31,58,3,High,Poor
+62,17,1962,Vegan,0,High,3.4,High,Rural,53,19,68,1,High,Poor
+23,17,2001,Traditional,3,High,1.2,Medium,Suburban,27,16,59,8,Low,Excellent
+45,17,1979,Traditional,2,Medium,1.3,Low,Suburban,56,19,47,3,High,Good
+76,11,1948,Vegan,4,High,1.4,Medium,Suburban,40,18,32,7,High,Poor
+79,13,1945,Fast Food,4,Low,1.6,High,Suburban,48,11,45,6,Moderate,Average
+22,16,2002,Traditional,4,High,1.5,Low,Rural,47,21,35,3,High,Excellent
+66,12,1958,Traditional,3,Medium,2.3,High,Rural,88,30,44,6,High,Average
+56,12,1968,Vegan,7,Medium,3.4,High,Suburban,56,9,29,3,High,Excellent
+55,13,1969,Vegan,2,Low,2.5,High,Rural,79,24,48,9,Low,Poor
+19,17,2005,Processed,3,Medium,4.0,High,Suburban,17,14,65,1,High,Excellent
+60,11,1964,Vegan,0,Medium,3.7,Medium,Suburban,95,23,57,8,Low,Poor
+56,13,1968,Vegan,6,Medium,1.1,High,Suburban,74,22,39,5,Moderate,Average
+71,13,1953,Traditional,0,High,0.7,Medium,Urban,22,34,73,4,High,Poor
+38,17,1986,Traditional,1,Medium,4.5,High,Rural,64,34,45,1,Low,Excellent
+57,17,1967,Traditional,6,High,0.9,Low,Rural,97,29,51,9,Moderate,Excellent
+54,11,1970,Fast Food,0,Medium,1.2,High,Suburban,94,28,58,9,High,Excellent
+76,12,1948,Traditional,2,Medium,0.6,High,Rural,52,14,57,5,Low,Average
+35,13,1989,Traditional,5,High,3.3,Low,Suburban,13,6,78,9,Low,Good
+71,13,1953,Vegan,5,High,3.1,Low,Rural,80,10,68,9,Moderate,Average
+65,16,1959,Processed,5,Low,4.9,High,Suburban,69,7,72,7,High,Poor
+63,17,1961,Traditional,1,Low,4.5,High,Suburban,21,23,43,8,High,Poor
+29,17,1995,Processed,1,High,2.3,Medium,Urban,68,9,50,1,High,Average
+34,12,1990,Traditional,5,Medium,2.2,Low,Suburban,86,11,59,4,Low,Average
+54,12,1970,Traditional,9,Low,1.8,Low,Urban,63,11,31,4,High,Poor
+63,16,1961,Processed,4,High,1.2,Medium,Rural,53,31,77,9,Low,Poor
+55,11,1969,Vegan,6,High,1.1,High,Rural,25,14,76,3,Low,Poor
+32,16,1992,Traditional,6,Medium,1.1,High,Urban,15,5,55,1,Moderate,Good
+24,16,2000,Processed,4,High,1.0,Low,Rural,23,15,29,5,Low,Good
+31,16,1993,Traditional,7,Low,1.6,Medium,Urban,67,27,25,7,Moderate,Average
+67,16,1957,Fast Food,9,Medium,1.9,High,Rural,40,11,26,4,Moderate,Average
+18,13,2006,Fast Food,5,High,4.8,Low,Urban,50,10,72,9,High,Good
+55,13,1969,Fast Food,4,High,3.1,High,Urban,44,10,50,6,Moderate,Excellent
+20,17,2004,Fast Food,3,Medium,4.9,High,Suburban,19,17,46,6,High,Good
+54,16,1970,Vegan,6,Medium,2.2,High,Rural,90,20,27,3,Moderate,Average
+61,16,1963,Fast Food,3,Medium,2.6,Low,Suburban,39,17,22,5,Low,Good
+48,13,1976,Processed,4,Low,2.0,Medium,Urban,53,6,59,6,High,Excellent
+60,13,1964,Traditional,4,Low,1.3,Medium,Suburban,64,23,66,4,Low,Average
+30,13,1994,Processed,0,High,1.1,High,Urban,80,23,40,3,High,Poor
+65,11,1959,Fast Food,0,High,4.8,Medium,Rural,27,33,20,5,Low,Average
+35,11,1989,Vegan,2,Medium,4.9,High,Rural,92,23,64,7,Moderate,Good
+34,16,1990,Fast Food,2,High,0.7,Low,Rural,88,22,73,6,High,Good
+34,16,1990,Fast Food,1,High,1.2,Low,Urban,95,29,69,2,High,Excellent
+78,16,1946,Vegan,1,Medium,2.4,Low,Suburban,48,10,34,1,High,Good
+28,16,1996,Vegan,5,Low,1.3,High,Rural,51,6,26,5,Moderate,Excellent
+37,11,1987,Vegan,0,Low,2.1,Medium,Urban,63,23,34,5,Low,Average
+27,17,1997,Vegan,5,Low,1.1,Low,Suburban,39,30,44,6,Moderate,Good
+46,12,1978,Vegan,4,High,2.6,High,Urban,29,10,22,3,Moderate,Average
+65,17,1959,Vegan,5,Medium,1.7,Medium,Urban,51,24,49,1,Moderate,Poor
+51,11,1973,Traditional,4,Low,2.1,Medium,Rural,98,27,77,4,Low,Poor
+34,12,1990,Fast Food,6,High,0.9,Medium,Urban,96,26,33,4,Moderate,Excellent
+71,13,1953,Fast Food,0,Medium,2.4,High,Urban,14,19,71,2,High,Good
+79,16,1945,Vegan,2,Low,4.9,High,Suburban,59,10,23,8,Moderate,Average
+69,11,1955,Processed,5,Low,2.0,High,Rural,50,32,55,6,Low,Average
+59,12,1965,Vegan,0,Medium,4.4,Low,Urban,48,7,22,3,High,Good
+30,16,1994,Traditional,6,High,4.3,High,Urban,66,15,24,1,Low,Average
+61,12,1963,Processed,3,High,4.8,Low,Suburban,66,12,44,3,Moderate,Good
+64,13,1960,Traditional,2,Low,4.1,Low,Urban,46,29,50,8,Low,Good
+56,17,1968,Processed,9,Medium,3.5,Low,Urban,16,26,30,4,High,Poor
+44,16,1980,Processed,8,High,4.4,High,Urban,14,22,27,3,Low,Good
+71,16,1953,Vegan,0,Medium,0.8,Low,Urban,88,21,45,4,High,Average
+70,16,1954,Traditional,7,Medium,2.6,High,Urban,60,23,21,4,High,Good
+43,13,1981,Processed,0,Low,5.0,High,Suburban,17,23,47,2,Moderate,Poor
+45,12,1979,Traditional,4,Medium,4.0,Low,Urban,65,28,67,4,Moderate,Poor
+30,16,1994,Vegan,9,Medium,4.8,Low,Urban,82,25,76,9,High,Excellent
+29,11,1995,Vegan,7,Medium,4.0,Low,Urban,20,21,79,4,Low,Average
+61,16,1963,Vegan,5,High,4.4,High,Urban,31,31,29,1,High,Good
+45,17,1979,Vegan,6,Low,3.7,High,Rural,86,8,69,1,Moderate,Average
+19,17,2005,Fast Food,7,Low,3.9,Low,Rural,20,11,58,1,Low,Average
+54,17,1970,Processed,5,Medium,2.9,Low,Rural,69,9,56,5,High,Good
+74,17,1950,Fast Food,5,Medium,4.7,Medium,Rural,24,30,58,6,Moderate,Poor
+74,17,1950,Vegan,5,High,4.2,Low,Suburban,47,33,40,6,High,Average
+51,17,1973,Processed,4,Low,4.3,Medium,Rural,10,20,47,6,High,Excellent
+40,12,1984,Processed,7,High,3.5,Medium,Suburban,55,10,57,9,High,Average
+75,11,1949,Traditional,1,Low,1.9,High,Rural,97,18,75,1,Low,Poor
+79,13,1945,Vegan,6,High,0.7,High,Suburban,52,30,52,6,Moderate,Excellent
+69,12,1955,Fast Food,3,Medium,4.7,Medium,Rural,31,24,30,8,Moderate,Excellent
+62,12,1962,Traditional,0,High,3.1,Medium,Urban,12,6,64,8,High,Excellent
+46,13,1978,Processed,4,Medium,1.8,Low,Rural,23,29,63,3,High,Excellent
+52,13,1972,Fast Food,2,Low,1.2,Medium,Rural,11,22,20,5,High,Good
+28,16,1996,Vegan,3,Low,4.2,Low,Rural,70,22,72,4,Low,Good
+65,16,1959,Fast Food,6,Medium,4.3,High,Urban,41,17,66,1,Moderate,Good
+50,12,1974,Fast Food,4,Low,4.2,Low,Suburban,47,32,52,9,High,Excellent
+68,13,1956,Fast Food,3,High,3.4,High,Suburban,55,22,22,5,Moderate,Poor
+28,16,1996,Traditional,0,Medium,2.1,Medium,Urban,51,21,45,2,High,Average
+26,13,1998,Processed,5,Low,1.9,Medium,Rural,15,17,34,2,Moderate,Excellent
+31,13,1993,Fast Food,9,High,0.5,Medium,Rural,50,32,60,7,High,Poor
+26,17,1998,Processed,5,High,4.3,Low,Rural,34,16,33,4,Low,Average
+56,13,1968,Traditional,6,Low,0.9,High,Suburban,20,7,42,1,High,Excellent
+65,12,1959,Vegan,0,Low,3.3,High,Suburban,50,26,79,5,High,Average
+20,17,2004,Vegan,3,High,2.8,High,Urban,80,11,73,2,High,Good
+46,17,1978,Fast Food,8,Medium,2.9,High,Urban,66,5,75,7,High,Good
+36,16,1988,Traditional,9,Low,4.7,High,Suburban,55,34,27,9,High,Good
+53,16,1971,Vegan,5,Low,0.6,Low,Rural,95,9,73,1,Moderate,Poor
+49,17,1975,Traditional,1,Medium,4.0,High,Rural,57,25,55,2,Moderate,Good
+24,17,2000,Traditional,3,Medium,0.7,Medium,Rural,72,5,39,6,Low,Poor
+72,16,1952,Fast Food,5,Low,0.7,High,Rural,48,8,71,8,High,Good
+45,16,1979,Fast Food,3,Medium,2.4,Medium,Urban,19,30,25,7,Moderate,Good
+61,16,1963,Traditional,9,High,0.8,Low,Urban,94,5,52,9,Moderate,Good
+79,16,1945,Traditional,6,High,4.1,Low,Suburban,79,17,47,2,High,Poor
+35,11,1989,Fast Food,2,High,2.9,Medium,Urban,74,18,69,9,High,Average
+77,16,1947,Traditional,5,Low,0.6,High,Rural,68,19,57,4,Low,Poor
+22,11,2002,Fast Food,3,Medium,0.7,Low,Suburban,87,21,49,3,Low,Excellent
+40,11,1984,Processed,2,High,3.3,Low,Urban,45,16,65,7,Moderate,Excellent
+72,16,1952,Traditional,2,Medium,4.1,Low,Urban,36,11,62,5,Low,Poor
+39,16,1985,Fast Food,1,High,2.5,High,Urban,82,27,36,5,Moderate,Poor
+43,16,1981,Traditional,2,Medium,3.0,Medium,Urban,64,23,28,2,Low,Average
+59,13,1965,Fast Food,9,High,4.1,Medium,Urban,79,27,47,6,High,Poor
+29,16,1995,Traditional,0,High,3.2,High,Rural,90,7,73,6,Low,Good
+57,16,1967,Vegan,2,High,1.5,Low,Rural,62,22,26,4,Moderate,Average
+36,12,1988,Vegan,8,High,3.3,High,Rural,69,30,65,5,Low,Poor
+64,17,1960,Traditional,3,High,3.3,High,Urban,70,8,47,7,Moderate,Poor
+18,16,2006,Vegan,2,High,3.8,Medium,Suburban,45,34,36,8,Moderate,Excellent
+20,12,2004,Traditional,7,High,3.3,High,Rural,94,30,59,6,Low,Average
+44,17,1980,Traditional,0,High,4.9,High,Rural,36,7,79,5,Low,Excellent
+35,17,1989,Processed,4,High,1.4,Low,Urban,50,16,67,3,Moderate,Poor
+67,12,1957,Processed,0,Medium,4.8,Low,Suburban,37,27,63,7,High,Average
+47,16,1977,Vegan,6,Medium,2.9,Medium,Rural,25,32,63,8,Low,Good
+79,13,1945,Processed,4,Low,3.5,Low,Rural,44,16,79,3,Moderate,Poor
+19,12,2005,Processed,1,High,0.9,High,Suburban,45,21,79,5,High,Poor
+22,12,2002,Traditional,0,Medium,2.2,High,Urban,65,10,24,2,Moderate,Excellent
+46,17,1978,Fast Food,6,Medium,4.0,High,Suburban,28,19,24,4,Low,Good
+50,12,1974,Traditional,0,Medium,3.7,Medium,Urban,66,34,33,4,Moderate,Poor
+59,17,1965,Processed,2,Medium,0.7,Low,Rural,94,6,25,8,Moderate,Excellent
+37,12,1987,Traditional,5,Medium,3.0,High,Suburban,42,12,26,3,Moderate,Excellent
+47,12,1977,Vegan,5,Medium,0.9,Low,Suburban,32,18,74,5,Low,Poor
+59,13,1965,Fast Food,6,Low,5.0,Low,Rural,72,9,72,5,High,Average
+22,17,2002,Processed,0,Medium,4.5,Low,Rural,79,7,36,2,High,Poor
+67,13,1957,Processed,6,Low,0.6,Low,Urban,31,14,78,9,High,Good
+38,13,1986,Traditional,1,Low,4.4,Medium,Rural,76,11,28,4,High,Poor
+75,17,1949,Traditional,5,High,4.6,Medium,Rural,89,34,50,9,Low,Average
+32,12,1992,Traditional,7,High,2.1,Medium,Suburban,68,15,41,9,Moderate,Excellent
+37,16,1987,Traditional,4,High,3.7,High,Urban,34,19,64,2,High,Good
+25,16,1999,Processed,9,Medium,2.5,High,Rural,26,6,28,9,High,Good
+66,13,1958,Traditional,2,High,3.4,High,Suburban,48,9,78,9,Low,Good
+48,13,1976,Processed,7,Medium,2.0,Medium,Rural,86,15,35,2,Moderate,Good
+29,11,1995,Traditional,7,Medium,2.0,Low,Rural,84,12,55,6,Moderate,Average
+38,17,1986,Fast Food,3,High,2.4,Medium,Rural,83,17,53,9,High,Average
+47,16,1977,Fast Food,7,High,1.2,High,Rural,48,15,64,4,High,Average
+79,12,1945,Traditional,4,Low,4.2,High,Urban,33,21,32,2,Moderate,Average
+44,12,1980,Traditional,4,Low,2.1,Low,Suburban,47,19,38,7,Low,Excellent
+61,12,1963,Vegan,2,Medium,2.3,Medium,Suburban,97,5,31,9,Moderate,Poor
+43,16,1981,Fast Food,6,Medium,4.5,Low,Rural,90,23,55,6,Moderate,Average
+50,16,1974,Processed,8,High,2.7,Medium,Suburban,66,20,29,4,High,Poor
+43,17,1981,Fast Food,8,High,2.9,High,Rural,53,23,35,1,Low,Good
+43,16,1981,Processed,0,Low,4.8,Low,Suburban,45,17,47,4,Low,Excellent
+53,17,1971,Traditional,0,High,4.5,Low,Urban,79,27,75,3,Low,Excellent
+57,12,1967,Fast Food,9,Medium,1.3,Medium,Urban,89,26,38,7,High,Poor
+18,13,2006,Fast Food,4,High,2.6,Medium,Suburban,54,27,59,5,Low,Poor
+76,11,1948,Vegan,0,Low,4.9,Medium,Rural,35,8,25,3,Low,Poor
+32,13,1992,Vegan,3,Medium,2.2,High,Rural,20,15,23,2,High,Excellent
+67,13,1957,Fast Food,0,Low,2.2,Medium,Rural,61,22,49,2,Moderate,Average
+18,13,2006,Fast Food,1,Low,1.4,High,Rural,34,22,58,5,Low,Excellent
+28,13,1996,Fast Food,1,Medium,1.0,Medium,Urban,40,14,50,8,Moderate,Average
+72,16,1952,Processed,3,Low,3.8,Medium,Rural,94,21,65,8,Low,Good
+19,16,2005,Traditional,7,High,4.0,High,Rural,54,34,46,5,Moderate,Average
+18,11,2006,Vegan,1,High,4.9,Medium,Rural,76,17,64,2,Moderate,Poor
+48,16,1976,Traditional,8,Low,4.0,High,Rural,85,34,40,4,High,Average
+61,16,1963,Vegan,8,High,1.6,High,Urban,49,29,56,7,High,Average
+33,13,1991,Vegan,1,Low,0.7,Medium,Suburban,55,18,28,6,Low,Excellent
+71,16,1953,Vegan,0,High,4.9,Medium,Suburban,63,34,54,7,Low,Poor
+39,12,1985,Fast Food,9,Low,2.0,Low,Rural,50,11,61,5,High,Good
+59,16,1965,Vegan,9,High,1.9,Medium,Rural,98,14,66,2,Low,Average
+35,17,1989,Traditional,8,Medium,4.6,Low,Suburban,90,7,71,8,Low,Good
+64,16,1960,Vegan,1,Medium,3.1,Medium,Urban,47,6,40,2,High,Poor
+34,11,1990,Traditional,7,High,1.5,High,Urban,45,34,36,8,Moderate,Average
+47,16,1977,Vegan,2,Low,4.5,High,Urban,92,23,74,7,Low,Excellent
+27,16,1997,Vegan,0,High,5.0,Low,Urban,53,11,43,3,High,Good
+52,16,1972,Fast Food,0,Low,0.9,Medium,Urban,66,9,50,4,Low,Excellent
+75,13,1949,Traditional,9,High,4.4,Low,Urban,75,32,25,7,Low,Good
+79,16,1945,Vegan,1,High,2.3,Medium,Urban,90,7,76,4,High,Poor
+38,16,1986,Vegan,6,Medium,2.9,Medium,Urban,39,29,54,9,High,Average
+33,16,1991,Traditional,5,Low,4.6,High,Urban,19,6,69,7,Low,Good
+23,16,2001,Vegan,1,Low,4.9,Low,Rural,70,27,56,1,Low,Excellent
+20,12,2004,Processed,3,Low,1.7,High,Urban,72,30,32,1,Moderate,Good
+58,11,1966,Fast Food,1,Low,1.5,High,Rural,45,26,44,4,Moderate,Good
+60,12,1964,Traditional,0,Low,0.9,High,Suburban,63,10,51,9,High,Good
+38,11,1986,Fast Food,2,Medium,3.0,Low,Rural,74,18,78,4,Low,Good
+30,17,1994,Processed,3,High,0.6,Medium,Suburban,91,11,20,5,High,Good
+35,11,1989,Processed,9,Low,2.4,Medium,Rural,13,26,68,1,High,Good
+75,17,1949,Processed,4,Low,0.8,Low,Suburban,64,6,77,2,Low,Excellent
+71,17,1953,Traditional,4,High,2.3,Medium,Rural,63,15,54,4,Moderate,Good
+77,16,1947,Processed,6,Medium,0.7,Low,Rural,98,25,77,4,High,Good
+41,17,1983,Traditional,9,Medium,4.3,Low,Suburban,73,7,38,6,High,Good
+44,17,1980,Traditional,7,Medium,1.4,Medium,Urban,31,13,72,6,Low,Average
+71,12,1953,Vegan,8,High,2.0,High,Urban,34,12,71,8,Moderate,Poor
+21,17,2003,Traditional,6,High,4.4,Low,Urban,90,30,73,9,Moderate,Poor
+39,17,1985,Processed,4,Medium,3.9,Low,Urban,68,15,31,1,Low,Poor
+41,16,1983,Traditional,8,Medium,1.5,Low,Urban,66,22,59,1,High,Excellent
+57,11,1967,Traditional,7,High,0.8,Low,Rural,63,5,59,6,Low,Excellent
+62,12,1962,Fast Food,9,Medium,3.7,Medium,Urban,53,19,66,4,Low,Excellent
+27,13,1997,Processed,8,Low,2.3,Medium,Rural,61,8,62,4,Moderate,Good
+19,11,2005,Traditional,9,High,3.9,Low,Suburban,85,8,39,1,High,Poor
+57,16,1967,Vegan,7,Medium,2.5,High,Urban,25,32,52,9,High,Good
+23,11,2001,Traditional,5,Low,2.1,Medium,Urban,25,14,48,3,Moderate,Average
+65,12,1959,Traditional,3,High,2.5,High,Urban,90,15,35,5,High,Poor
+35,17,1989,Fast Food,8,High,3.9,High,Urban,64,22,33,1,High,Average
+34,13,1990,Processed,8,Low,4.6,Low,Rural,70,27,26,8,Low,Average
+55,17,1969,Processed,9,High,0.7,Medium,Rural,88,33,25,3,Low,Good
+62,16,1962,Vegan,9,Medium,2.9,Low,Rural,86,19,40,1,Low,Poor
+40,16,1984,Vegan,8,High,0.6,Low,Suburban,49,7,55,6,High,Average
+63,13,1961,Vegan,9,Medium,2.6,High,Rural,30,11,41,1,High,Poor
+47,13,1977,Traditional,2,Low,4.5,High,Urban,75,11,59,3,High,Average
+75,17,1949,Traditional,2,Low,2.1,High,Suburban,17,21,73,5,High,Average
+38,17,1986,Vegan,5,High,4.7,Low,Suburban,80,26,38,4,Moderate,Good
+79,13,1945,Processed,5,Low,3.3,Low,Urban,19,24,44,7,Moderate,Poor
+27,12,1997,Processed,5,Low,4.7,Low,Urban,66,31,22,6,High,Good
+73,17,1951,Vegan,4,High,3.9,Low,Urban,13,28,55,3,Low,Good
+60,17,1964,Fast Food,4,Medium,1.0,Low,Urban,52,20,64,8,Low,Good
+30,16,1994,Processed,1,High,1.5,Low,Rural,72,20,72,8,Moderate,Good
+29,13,1995,Processed,6,High,2.3,Low,Suburban,52,12,78,2,Moderate,Good
+26,17,1998,Vegan,3,Medium,1.3,Low,Urban,76,7,53,7,High,Average
+21,16,2003,Processed,2,Medium,2.7,Medium,Rural,91,24,30,1,High,Poor
+56,17,1968,Traditional,7,Medium,2.6,Medium,Urban,60,19,67,2,High,Poor
+41,16,1983,Traditional,3,High,4.8,Medium,Rural,65,5,61,8,High,Good
+78,16,1946,Processed,3,Medium,2.5,Medium,Urban,52,14,66,1,High,Poor
+71,13,1953,Traditional,7,Low,4.0,Low,Urban,33,6,46,2,Low,Average
+51,17,1973,Fast Food,0,Medium,4.7,Low,Urban,43,11,61,1,Low,Good
+56,12,1968,Processed,8,Low,4.4,High,Rural,68,18,21,5,High,Excellent
+78,16,1946,Vegan,6,Medium,1.4,High,Urban,11,20,25,7,Low,Excellent
+58,12,1966,Traditional,1,Low,2.7,Medium,Rural,11,31,65,6,High,Average
+22,11,2002,Fast Food,5,Low,2.1,High,Rural,19,32,21,6,High,Average
+32,11,1992,Fast Food,7,Low,2.3,Medium,Suburban,32,19,61,6,Moderate,Excellent
+67,12,1957,Traditional,4,Low,2.1,Low,Rural,24,11,36,8,Low,Good
+21,16,2003,Fast Food,5,Low,4.2,Low,Rural,85,17,59,5,Low,Average
+68,11,1956,Processed,9,Medium,2.5,High,Rural,26,29,77,7,Moderate,Excellent
+69,17,1955,Fast Food,7,High,2.9,Low,Rural,91,14,67,3,Low,Good
+75,12,1949,Traditional,5,High,4.9,Low,Rural,23,13,33,9,Moderate,Average
+56,11,1968,Fast Food,8,High,0.8,Medium,Suburban,90,13,29,3,Low,Poor
+75,17,1949,Traditional,8,High,2.7,High,Urban,88,10,64,6,High,Poor
+25,17,1999,Traditional,8,High,4.0,Low,Suburban,85,28,52,3,Moderate,Poor
+66,13,1958,Fast Food,5,Low,1.2,High,Suburban,25,29,61,1,High,Good
+62,12,1962,Traditional,8,Medium,3.3,Low,Urban,41,16,73,1,High,Average
+41,13,1983,Traditional,2,Low,1.6,Medium,Rural,32,34,31,3,Low,Excellent
+70,17,1954,Vegan,4,Medium,4.4,Low,Urban,43,27,51,4,Moderate,Average
+45,11,1979,Processed,1,Medium,2.0,High,Rural,25,24,68,2,High,Poor
+72,13,1952,Traditional,7,Medium,2.0,High,Urban,43,34,43,9,High,Poor
+60,17,1964,Processed,3,Medium,3.2,Medium,Suburban,80,24,33,8,Moderate,Good
+44,12,1980,Vegan,5,High,1.3,Low,Rural,42,26,24,3,Low,Excellent
+18,12,2006,Vegan,5,Medium,1.8,Medium,Suburban,77,18,70,7,High,Good
+51,17,1973,Vegan,4,Medium,2.4,High,Rural,52,31,24,4,Low,Excellent
+34,17,1990,Vegan,0,High,2.1,Medium,Urban,73,24,66,5,Moderate,Average
+54,17,1970,Processed,6,Low,2.9,Low,Urban,80,31,51,4,Low,Good
+79,12,1945,Fast Food,9,Low,3.2,Low,Urban,27,11,64,9,Moderate,Good
+79,17,1945,Fast Food,7,Low,3.1,Medium,Urban,77,12,68,7,Low,Good
+55,16,1969,Processed,0,Low,3.4,High,Urban,70,12,52,4,Low,Poor
+43,16,1981,Traditional,9,Medium,1.9,High,Suburban,84,34,79,8,High,Poor
+74,17,1950,Processed,6,High,1.1,Medium,Suburban,29,12,65,2,Low,Excellent
+41,17,1983,Traditional,3,High,3.9,Low,Rural,20,6,23,7,High,Average
+56,16,1968,Traditional,5,Low,4.3,Low,Suburban,88,18,76,1,Moderate,Good
+77,16,1947,Fast Food,8,High,1.7,Low,Rural,55,14,49,8,Moderate,Poor
+38,16,1986,Vegan,4,Medium,2.3,Low,Rural,73,22,60,6,High,Good
+47,12,1977,Fast Food,7,Low,2.7,High,Suburban,90,22,36,5,Low,Excellent
+64,11,1960,Fast Food,4,Medium,2.9,Low,Suburban,85,22,22,9,Moderate,Excellent
+68,12,1956,Processed,1,Medium,3.5,Medium,Rural,37,20,32,9,Moderate,Average
+65,12,1959,Processed,3,Medium,0.7,Medium,Suburban,57,24,63,3,Moderate,Excellent
+74,17,1950,Traditional,1,Medium,3.7,Medium,Suburban,44,9,67,9,High,Good
+30,11,1994,Processed,6,Medium,0.8,Medium,Suburban,17,24,55,9,Moderate,Average
+54,11,1970,Traditional,6,Low,2.6,Low,Urban,31,9,37,2,Moderate,Average
+20,12,2004,Traditional,2,Medium,4.2,High,Urban,33,24,42,5,Moderate,Poor
+49,16,1975,Vegan,6,Low,2.5,Low,Rural,75,27,54,2,Moderate,Good
+52,12,1972,Vegan,0,High,1.2,High,Suburban,95,14,68,1,High,Excellent
+36,11,1988,Fast Food,0,Medium,4.9,Low,Rural,73,21,52,7,High,Poor
+31,16,1993,Vegan,8,Medium,4.5,High,Suburban,74,34,70,4,Low,Good
+65,16,1959,Traditional,5,High,4.0,Medium,Urban,23,17,73,5,Moderate,Good
+39,13,1985,Processed,4,Low,2.4,Medium,Suburban,34,21,55,4,High,Average
+34,17,1990,Vegan,5,Medium,1.3,High,Suburban,12,22,36,6,Low,Average
+76,16,1948,Vegan,5,High,4.7,High,Suburban,14,17,58,2,Low,Good
+21,13,2003,Vegan,0,High,2.9,High,Urban,74,21,53,8,Moderate,Poor
+62,11,1962,Vegan,4,Medium,4.3,Medium,Urban,63,32,31,4,Low,Average
+57,17,1967,Traditional,8,Low,2.0,Medium,Urban,28,19,24,8,High,Average
+36,17,1988,Traditional,3,Low,2.0,Low,Rural,63,30,67,3,Low,Good
+54,12,1970,Fast Food,2,Medium,4.9,High,Suburban,85,16,59,5,Low,Good
+19,12,2005,Processed,0,High,2.8,High,Urban,19,32,74,3,High,Average
+32,11,1992,Fast Food,1,Medium,1.1,High,Rural,25,14,46,7,Low,Poor
+19,16,2005,Fast Food,2,Low,1.5,Medium,Urban,55,17,79,3,Low,Average
+28,13,1996,Vegan,3,High,2.7,High,Suburban,38,34,59,8,Low,Good
+62,12,1962,Processed,6,Medium,0.7,High,Rural,24,15,32,9,Low,Average
+40,13,1984,Vegan,5,High,2.6,Medium,Urban,57,7,45,2,Moderate,Good
+27,16,1997,Traditional,7,Low,2.4,High,Urban,20,26,33,3,Moderate,Average
+20,13,2004,Fast Food,8,Low,4.0,Low,Rural,43,14,51,7,High,Good
+22,12,2002,Processed,5,Low,2.1,Medium,Rural,45,15,30,5,Low,Good
+20,12,2004,Traditional,6,Medium,4.9,Medium,Rural,39,10,57,7,High,Poor
+55,12,1969,Fast Food,3,High,1.3,Medium,Rural,82,5,35,2,Moderate,Good
+30,13,1994,Processed,1,Medium,3.2,Low,Rural,91,10,74,4,Low,Average
+59,12,1965,Fast Food,8,Medium,0.9,Medium,Urban,28,9,76,1,Low,Good
+36,11,1988,Processed,8,Medium,3.8,Medium,Rural,77,11,41,5,Moderate,Excellent
+57,16,1967,Fast Food,3,Medium,5.0,Medium,Rural,79,26,76,8,Low,Average
+67,12,1957,Vegan,2,High,4.2,Medium,Suburban,42,16,66,1,Low,Poor
+52,11,1972,Fast Food,9,High,3.0,Low,Urban,89,16,35,7,Moderate,Average
+41,13,1983,Fast Food,5,Medium,2.7,High,Suburban,84,11,32,7,High,Poor
+41,11,1983,Processed,2,Medium,4.3,High,Urban,31,6,31,7,High,Excellent
+34,13,1990,Processed,0,Low,4.7,Medium,Urban,45,32,37,1,Low,Poor
+57,12,1967,Vegan,3,Low,5.0,Low,Urban,32,5,48,3,Moderate,Good
+27,12,1997,Processed,0,High,2.3,Medium,Rural,72,34,37,2,High,Excellent
+19,13,2005,Fast Food,1,Low,5.0,High,Suburban,35,27,65,5,High,Excellent
+61,13,1963,Processed,2,High,1.2,High,Urban,69,29,21,2,Low,Poor
+40,11,1984,Processed,7,High,1.6,Low,Urban,14,22,73,5,High,Average
+23,17,2001,Processed,9,High,0.9,High,Urban,63,16,21,5,Moderate,Poor
+19,17,2005,Vegan,3,Low,1.7,Medium,Suburban,47,11,22,4,High,Poor
+38,11,1986,Vegan,3,Low,4.0,Low,Urban,71,23,48,7,Moderate,Excellent
+72,17,1952,Traditional,9,High,4.3,High,Suburban,34,26,75,6,Moderate,Good
+73,12,1951,Vegan,8,High,4.0,Medium,Suburban,21,7,27,2,Low,Average
+52,12,1972,Vegan,6,Medium,3.3,Low,Rural,31,33,30,4,High,Poor
+66,12,1958,Vegan,1,High,2.8,Medium,Urban,18,14,31,7,Low,Good
+46,16,1978,Fast Food,2,High,3.7,High,Urban,93,33,51,9,High,Good
+24,11,2000,Traditional,3,Medium,2.3,Medium,Suburban,38,31,23,9,Low,Average
+46,16,1978,Fast Food,3,High,4.3,Low,Suburban,53,31,28,3,Low,Good
+70,12,1954,Vegan,9,High,3.5,Medium,Rural,36,15,43,1,Low,Poor
+54,16,1970,Vegan,7,High,3.6,High,Urban,64,9,68,9,High,Excellent
+40,11,1984,Traditional,9,Medium,2.9,Low,Suburban,90,6,75,8,Low,Good
+50,11,1974,Traditional,9,Low,4.5,Low,Urban,14,12,35,7,Moderate,Excellent
+25,11,1999,Processed,5,High,1.6,High,Urban,61,18,36,6,High,Average
+29,12,1995,Vegan,2,Medium,2.2,Medium,Urban,22,12,66,7,Moderate,Average
+63,12,1961,Vegan,8,High,4.0,Medium,Suburban,51,27,71,9,Low,Good
+65,12,1959,Fast Food,9,Medium,2.7,High,Urban,24,10,77,6,Low,Excellent
+27,17,1997,Processed,7,High,4.5,Low,Suburban,88,5,41,3,Moderate,Poor
+32,13,1992,Vegan,8,Medium,2.1,High,Rural,27,28,26,3,Low,Excellent
+70,17,1954,Fast Food,4,Low,2.2,Low,Rural,59,5,29,4,High,Good
+41,13,1983,Traditional,2,Low,4.5,Low,Suburban,11,12,48,8,Moderate,Excellent
+43,12,1981,Fast Food,3,Low,2.6,Medium,Urban,96,15,55,9,High,Excellent
+64,12,1960,Vegan,4,High,2.8,High,Rural,22,22,43,8,High,Average
+59,16,1965,Fast Food,8,Medium,2.0,Low,Rural,77,28,75,2,High,Good
+70,11,1954,Fast Food,8,High,1.7,Medium,Suburban,56,14,65,4,Low,Excellent
+77,11,1947,Processed,2,High,3.5,High,Suburban,98,16,33,4,Low,Good
+56,12,1968,Processed,6,Medium,1.0,High,Suburban,84,24,33,2,Moderate,Poor
+75,11,1949,Traditional,5,High,4.5,Low,Suburban,59,27,44,8,Moderate,Good
+20,12,2004,Processed,3,Medium,4.0,Low,Suburban,21,20,65,3,High,Poor
+19,17,2005,Fast Food,4,Medium,1.4,Low,Suburban,22,9,41,2,Low,Good
+23,12,2001,Processed,9,Low,3.6,High,Suburban,18,20,71,7,Low,Good
+38,16,1986,Vegan,1,Low,3.2,Low,Urban,68,28,69,1,Low,Excellent
+26,17,1998,Fast Food,6,Low,1.3,High,Urban,54,16,66,6,Moderate,Excellent
+27,17,1997,Fast Food,3,Medium,1.7,Medium,Urban,79,10,42,3,Low,Poor
+53,16,1971,Fast Food,1,Low,2.3,High,Urban,52,34,51,3,High,Poor
+76,16,1948,Vegan,5,Medium,3.6,Low,Rural,83,9,45,5,High,Average
+20,13,2004,Fast Food,1,High,3.4,High,Urban,32,5,70,3,High,Excellent
+58,11,1966,Processed,9,Low,2.9,Low,Rural,88,23,46,4,Low,Poor
+41,16,1983,Vegan,1,Medium,4.0,Medium,Rural,54,14,64,3,High,Excellent
+39,17,1985,Fast Food,6,Medium,3.9,Low,Rural,32,29,31,7,High,Good
+66,13,1958,Processed,0,Medium,3.3,Low,Suburban,43,18,38,3,Moderate,Average
+31,11,1993,Processed,6,Medium,4.0,Low,Rural,25,29,38,4,Moderate,Excellent
+59,16,1965,Traditional,9,Low,2.0,Low,Rural,72,25,71,2,Low,Excellent
+62,17,1962,Processed,4,Low,4.5,Low,Rural,60,7,53,2,Low,Excellent
+61,12,1963,Processed,0,Low,3.3,Low,Suburban,41,10,51,9,Low,Excellent
+44,17,1980,Traditional,5,Medium,4.2,Medium,Urban,47,9,48,1,Low,Poor
+50,17,1974,Traditional,6,High,3.0,Medium,Urban,65,21,40,1,Low,Poor
+77,11,1947,Vegan,0,Medium,1.5,High,Rural,78,22,54,1,Moderate,Average
+39,11,1985,Processed,8,High,2.9,Low,Rural,26,16,61,3,Moderate,Good
+46,16,1978,Vegan,6,Low,2.2,High,Urban,95,9,24,2,Moderate,Good
+36,16,1988,Vegan,0,Medium,3.6,Medium,Urban,48,34,31,3,High,Average
+36,16,1988,Fast Food,2,Medium,2.6,Medium,Urban,50,13,26,5,High,Good
+23,11,2001,Vegan,4,Low,4.3,Low,Urban,57,16,60,9,Moderate,Poor
+62,11,1962,Vegan,3,Medium,3.6,Low,Rural,91,24,21,2,Moderate,Excellent
+36,12,1988,Vegan,1,High,3.6,High,Rural,37,13,44,1,Low,Good
+30,17,1994,Vegan,0,High,1.5,Medium,Rural,86,7,29,6,Moderate,Excellent
+76,12,1948,Traditional,3,High,4.9,High,Urban,59,5,57,3,Low,Excellent
+43,12,1981,Processed,6,Medium,4.3,High,Suburban,10,26,63,7,Moderate,Poor
+39,17,1985,Fast Food,3,Medium,4.1,High,Urban,59,19,25,6,Low,Excellent
+38,17,1986,Traditional,8,High,2.0,Low,Urban,28,14,46,7,Moderate,Good
+53,16,1971,Fast Food,7,Medium,2.9,Medium,Suburban,68,18,54,5,Low,Poor
+73,17,1951,Fast Food,7,High,1.1,High,Suburban,77,11,29,1,High,Average
+19,16,2005,Traditional,4,Low,2.9,Medium,Urban,76,8,28,3,High,Poor
+64,13,1960,Vegan,0,High,1.2,Medium,Suburban,50,30,39,3,Low,Good
+61,13,1963,Traditional,8,Low,3.0,High,Suburban,19,9,56,7,Low,Poor
+47,12,1977,Fast Food,1,Low,3.4,High,Suburban,37,24,54,3,High,Good
+44,13,1980,Fast Food,5,Low,2.3,Low,Urban,43,20,56,5,Moderate,Good
+24,16,2000,Vegan,9,High,2.7,Medium,Urban,48,7,59,4,Low,Poor
+37,11,1987,Traditional,4,High,4.4,High,Suburban,92,21,27,4,Moderate,Good
+67,16,1957,Processed,9,Medium,1.0,High,Rural,65,17,65,7,High,Average
+48,16,1976,Fast Food,7,Medium,4.1,Medium,Suburban,61,10,75,1,High,Good
+40,12,1984,Traditional,2,Low,1.3,High,Suburban,12,30,73,7,Low,Average
+30,13,1994,Vegan,5,High,0.7,Medium,Urban,32,9,50,8,Moderate,Average
+34,13,1990,Vegan,5,Medium,1.3,High,Rural,26,20,68,3,High,Good
+21,17,2003,Processed,9,Medium,3.9,Medium,Suburban,80,15,62,3,Moderate,Excellent
+74,12,1950,Fast Food,2,Medium,2.3,High,Rural,35,21,77,4,High,Average
+31,17,1993,Processed,6,High,4.4,High,Urban,27,9,35,6,Low,Average
+37,16,1987,Processed,3,Medium,2.9,Low,Rural,55,10,47,7,Moderate,Poor
+77,13,1947,Processed,4,Low,0.6,Medium,Urban,79,14,25,1,Moderate,Average
+30,12,1994,Processed,8,High,3.7,Low,Suburban,40,25,51,4,Low,Average
+20,17,2004,Vegan,5,Medium,1.0,High,Urban,18,5,47,7,Low,Average
+43,17,1981,Fast Food,9,Medium,4.1,Medium,Rural,44,34,30,2,Low,Average
+43,13,1981,Processed,3,High,1.3,Medium,Rural,90,25,61,1,Low,Excellent
+35,13,1989,Fast Food,7,Medium,2.1,High,Rural,69,14,42,1,High,Average
+49,12,1975,Vegan,8,Medium,3.9,High,Suburban,85,21,49,6,Moderate,Good
+31,11,1993,Vegan,9,Low,4.8,High,Rural,72,31,28,5,High,Excellent
+64,12,1960,Traditional,4,High,2.2,High,Rural,61,7,47,1,Low,Average
+20,16,2004,Traditional,1,Medium,4.2,Medium,Rural,57,32,43,3,High,Good
+18,16,2006,Fast Food,5,High,1.4,Low,Urban,70,33,78,7,High,Good
+43,13,1981,Traditional,7,High,4.1,Medium,Rural,33,6,47,9,Moderate,Excellent
+41,13,1983,Processed,4,Low,3.5,Medium,Urban,83,33,43,9,Moderate,Excellent
+66,16,1958,Fast Food,0,Low,1.4,Medium,Rural,67,21,34,6,Moderate,Good
+52,16,1972,Vegan,7,High,1.9,Medium,Urban,73,8,58,3,Low,Excellent
+31,13,1993,Vegan,8,Low,1.1,High,Urban,39,6,69,1,Low,Excellent
+20,12,2004,Processed,0,Low,2.2,Low,Suburban,38,9,52,3,Moderate,Poor
+30,16,1994,Traditional,7,Medium,1.4,Medium,Suburban,19,14,66,2,High,Excellent
+64,16,1960,Fast Food,9,Low,3.4,Medium,Urban,48,5,53,5,Moderate,Poor
+67,11,1957,Fast Food,1,Low,5.0,Low,Urban,64,32,41,8,Low,Excellent
+31,12,1993,Processed,3,Medium,0.6,High,Suburban,37,30,48,5,High,Excellent
+38,17,1986,Traditional,1,Medium,2.9,Medium,Urban,27,5,53,1,Low,Good
+43,13,1981,Fast Food,1,High,3.1,High,Suburban,50,31,61,3,Moderate,Poor
+20,13,2004,Processed,9,Low,4.6,Medium,Suburban,90,30,71,5,Moderate,Excellent
+68,16,1956,Fast Food,2,Medium,2.8,Medium,Rural,84,8,66,7,High,Average
+57,17,1967,Vegan,7,Low,2.9,Low,Rural,74,11,29,5,Moderate,Excellent
+21,16,2003,Fast Food,3,High,2.6,Low,Suburban,90,18,70,5,Low,Good
+53,11,1971,Fast Food,6,Low,1.7,High,Suburban,55,18,73,7,Low,Good
+68,13,1956,Fast Food,9,Low,0.8,Medium,Urban,69,22,79,8,Low,Good
+60,13,1964,Traditional,2,Low,2.3,High,Suburban,18,6,79,8,High,Poor
+18,11,2006,Traditional,9,Medium,0.7,Low,Suburban,54,5,64,7,Low,Poor
+57,16,1967,Processed,2,Medium,3.0,Low,Rural,69,25,49,3,Moderate,Poor
+64,17,1960,Traditional,1,High,1.9,Low,Suburban,37,26,75,2,High,Average
+50,11,1974,Fast Food,5,Low,2.9,Low,Urban,12,20,30,1,Low,Poor
+24,16,2000,Fast Food,5,High,1.1,Low,Suburban,60,33,73,6,Low,Good
+70,16,1954,Traditional,0,High,4.7,High,Rural,17,26,53,9,Moderate,Poor
+69,11,1955,Traditional,6,Medium,4.5,High,Rural,79,22,40,3,Moderate,Poor
+69,17,1955,Fast Food,3,Low,1.4,Low,Rural,68,20,78,5,High,Excellent
+73,16,1951,Fast Food,2,Low,2.0,Medium,Rural,70,32,32,9,Low,Poor
+28,12,1996,Vegan,7,High,3.3,Medium,Suburban,67,32,73,9,Low,Excellent
+44,12,1980,Processed,1,Low,0.9,Medium,Urban,79,27,44,7,Moderate,Poor
+78,11,1946,Traditional,8,Medium,2.1,Medium,Urban,21,26,73,4,High,Excellent
+31,11,1993,Processed,7,High,1.6,Medium,Urban,18,28,77,2,Moderate,Good
+39,16,1985,Fast Food,7,High,4.6,Low,Suburban,58,10,40,2,Moderate,Poor
+33,12,1991,Processed,2,Medium,4.3,High,Suburban,92,29,20,4,High,Good
+63,11,1961,Traditional,3,Medium,3.1,Low,Suburban,26,14,77,1,Low,Poor
+29,16,1995,Traditional,1,Medium,2.8,Medium,Urban,63,6,24,4,Low,Average
+66,13,1958,Processed,1,Medium,4.7,Medium,Suburban,53,11,72,6,Low,Average
+63,12,1961,Traditional,3,Medium,4.7,High,Suburban,41,25,41,6,High,Good
+27,12,1997,Vegan,5,Medium,4.9,Low,Rural,44,21,26,7,High,Good
+41,17,1983,Fast Food,4,High,1.1,High,Rural,87,7,32,5,High,Average
+78,17,1946,Fast Food,0,Low,1.2,Medium,Urban,58,24,64,9,High,Average
+63,13,1961,Traditional,9,Low,3.5,Medium,Rural,63,16,71,2,High,Excellent
+35,12,1989,Fast Food,0,High,2.9,High,Rural,25,6,42,2,Moderate,Poor
+39,13,1985,Vegan,5,Low,0.6,Medium,Rural,94,11,40,4,Low,Average
+26,17,1998,Traditional,2,Low,0.8,Low,Suburban,21,21,25,4,High,Good
+34,16,1990,Vegan,2,High,4.5,Medium,Rural,97,23,39,4,Low,Good
+55,12,1969,Vegan,6,Low,4.4,Medium,Rural,17,16,31,1,High,Average
+57,17,1967,Fast Food,0,Low,2.1,Low,Rural,30,13,59,4,Low,Good
+75,12,1949,Fast Food,0,High,4.5,Medium,Suburban,57,31,28,5,Moderate,Poor
+30,17,1994,Processed,9,Low,3.2,High,Urban,17,18,69,9,Low,Excellent
+67,13,1957,Vegan,2,Medium,4.1,High,Suburban,37,6,47,3,Low,Poor
+54,17,1970,Fast Food,7,High,2.4,Medium,Suburban,89,25,30,3,High,Excellent
+23,11,2001,Vegan,0,Low,1.0,Low,Rural,19,8,71,5,Low,Excellent
+38,16,1986,Processed,9,Low,2.5,Low,Urban,61,32,51,6,Moderate,Average
+68,17,1956,Vegan,3,Medium,2.6,High,Rural,24,23,30,3,Moderate,Good
+53,17,1971,Traditional,8,High,3.0,Medium,Rural,13,25,43,1,Moderate,Excellent
+24,11,2000,Processed,3,High,1.0,Low,Urban,99,20,75,8,High,Average
+53,17,1971,Processed,9,Low,5.0,Low,Urban,88,26,34,1,High,Good
+42,11,1982,Vegan,7,Medium,1.6,High,Suburban,71,21,60,2,High,Good
+28,17,1996,Vegan,6,Medium,1.4,High,Urban,13,6,54,3,High,Excellent
+61,17,1963,Fast Food,2,Medium,2.9,Low,Suburban,50,21,36,6,High,Good
+31,11,1993,Traditional,6,Medium,2.9,High,Suburban,82,23,44,4,Moderate,Poor
+62,17,1962,Processed,6,Medium,2.5,Low,Rural,64,12,68,4,Low,Good
+46,13,1978,Processed,9,Medium,4.0,Medium,Rural,37,28,54,9,Moderate,Poor
+27,16,1997,Processed,2,High,2.8,High,Rural,56,24,38,6,High,Good
+67,17,1957,Fast Food,1,Low,3.2,High,Urban,18,10,60,2,Moderate,Excellent
+65,12,1959,Traditional,8,Low,3.8,Medium,Urban,11,16,50,7,Low,Excellent
+22,11,2002,Processed,0,Medium,0.6,Low,Suburban,76,29,36,3,High,Average
+25,12,1999,Processed,6,High,3.1,Low,Suburban,57,34,74,9,Moderate,Poor
+63,11,1961,Fast Food,3,High,4.5,High,Suburban,78,27,69,6,Moderate,Poor
+22,17,2002,Vegan,1,Medium,0.6,Low,Urban,83,22,42,8,Low,Excellent
+75,12,1949,Processed,1,Low,2.3,Low,Suburban,37,31,66,1,High,Excellent
+77,16,1947,Traditional,7,Medium,4.7,Medium,Suburban,88,6,20,2,High,Excellent
+41,16,1983,Traditional,6,High,2.1,Medium,Urban,23,23,77,6,Low,Poor
+57,17,1967,Traditional,6,Medium,2.6,Medium,Rural,55,28,29,3,Low,Average
+74,16,1950,Traditional,4,Low,4.9,High,Urban,96,14,27,1,Low,Poor
+43,13,1981,Fast Food,9,Low,1.4,Medium,Suburban,22,29,61,6,Low,Excellent
+23,11,2001,Processed,7,High,0.8,Medium,Rural,25,33,45,5,High,Average
+33,11,1991,Fast Food,1,Medium,4.4,Low,Urban,49,34,53,9,High,Good
+77,12,1947,Traditional,1,Medium,4.4,Medium,Rural,81,7,38,6,Moderate,Good
+53,16,1971,Traditional,4,High,2.6,High,Rural,90,29,33,5,Moderate,Excellent
+29,17,1995,Traditional,0,Medium,2.8,Medium,Suburban,39,32,27,1,Moderate,Average
+28,12,1996,Fast Food,5,High,4.3,High,Urban,90,16,70,1,High,Excellent
+20,17,2004,Traditional,3,Medium,3.8,Low,Suburban,74,30,20,1,High,Poor
+61,12,1963,Processed,5,Low,1.7,Low,Urban,67,20,67,7,High,Poor
+79,12,1945,Traditional,6,High,0.6,Medium,Urban,97,16,44,6,Moderate,Average
+54,13,1970,Processed,2,Medium,2.7,Low,Urban,57,12,43,5,Low,Excellent
+23,11,2001,Processed,7,Medium,4.4,Medium,Rural,58,9,66,4,Low,Excellent
+36,16,1988,Traditional,6,Medium,4.5,Low,Rural,98,15,39,8,Low,Good
+35,11,1989,Fast Food,0,High,4.8,High,Suburban,11,14,75,8,Low,Average
+33,17,1991,Vegan,5,Low,4.5,Low,Urban,98,7,49,5,Low,Excellent
+40,11,1984,Vegan,6,Medium,3.1,Medium,Urban,23,31,24,4,High,Poor
+60,17,1964,Processed,3,High,2.5,Medium,Rural,26,27,22,2,Moderate,Excellent
+54,17,1970,Fast Food,1,Medium,4.0,Medium,Urban,40,13,51,7,Low,Excellent
+26,13,1998,Vegan,9,Low,3.8,High,Suburban,19,16,36,5,Low,Poor
+20,12,2004,Traditional,8,Low,2.9,Low,Urban,79,10,61,3,Low,Poor
+79,13,1945,Traditional,6,Low,0.9,Medium,Urban,98,23,24,9,High,Excellent
+25,17,1999,Processed,0,High,4.7,High,Rural,46,20,30,9,Low,Poor
+55,11,1969,Fast Food,7,Medium,2.6,High,Urban,73,25,57,8,Moderate,Good
+21,13,2003,Fast Food,2,High,2.1,High,Suburban,39,27,23,1,High,Good
+29,12,1995,Vegan,3,Medium,3.3,Low,Suburban,43,28,58,3,High,Good
+61,12,1963,Vegan,4,High,3.5,Low,Suburban,27,33,38,2,High,Poor
+48,17,1976,Traditional,0,Medium,1.4,Low,Suburban,97,18,58,4,Low,Poor
+42,11,1982,Processed,5,High,4.3,High,Rural,72,32,65,2,Low,Poor
+70,12,1954,Fast Food,9,Medium,1.8,Low,Urban,58,8,68,8,Low,Average
+33,12,1991,Vegan,5,High,1.3,Medium,Rural,65,22,42,1,Low,Poor
+59,17,1965,Vegan,1,Low,2.3,High,Suburban,67,14,36,4,Moderate,Good
+71,17,1953,Processed,9,High,3.8,Low,Urban,36,22,32,5,High,Good
+31,17,1993,Processed,5,Low,4.8,High,Rural,64,16,46,4,Low,Good
+30,17,1994,Traditional,7,Low,4.1,High,Urban,94,23,20,8,Moderate,Average
+58,11,1966,Processed,5,Medium,4.7,Low,Suburban,28,12,21,2,High,Excellent
+24,11,2000,Traditional,3,Low,1.1,High,Suburban,32,5,37,9,High,Good
+29,13,1995,Traditional,3,Low,0.8,Low,Urban,56,18,55,2,High,Average
+54,12,1970,Processed,8,Medium,3.0,Low,Urban,88,27,64,2,Low,Excellent
+67,12,1957,Processed,5,High,1.8,Low,Suburban,75,10,52,2,High,Average
+21,11,2003,Processed,7,High,4.2,High,Rural,60,18,55,8,Low,Average
+19,16,2005,Processed,7,Low,3.5,High,Suburban,93,6,21,3,Moderate,Excellent
+52,16,1972,Processed,6,High,4.9,Low,Urban,37,13,23,8,High,Poor
+75,17,1949,Traditional,2,Low,1.6,High,Rural,66,33,35,7,Moderate,Poor
+61,16,1963,Vegan,9,High,2.7,Low,Suburban,67,16,23,4,Low,Good
+20,16,2004,Fast Food,0,High,2.8,Medium,Urban,24,9,76,7,Low,Excellent
+21,16,2003,Fast Food,4,High,1.6,High,Urban,25,6,28,8,Low,Good
+55,12,1969,Traditional,9,Low,3.2,High,Urban,56,23,68,6,High,Average
+29,17,1995,Traditional,9,Medium,2.5,Medium,Rural,72,11,40,6,High,Poor
+36,13,1988,Vegan,1,High,2.5,Medium,Rural,21,11,42,3,Moderate,Good
+27,17,1997,Processed,9,High,2.1,Medium,Rural,52,14,71,5,Low,Good
+79,16,1945,Traditional,1,High,0.6,Low,Rural,93,21,79,2,Moderate,Poor
+18,13,2006,Fast Food,6,Low,2.8,Low,Urban,38,30,72,5,Low,Average
+34,12,1990,Processed,2,Medium,2.0,Medium,Urban,58,18,21,5,Low,Good
+33,11,1991,Traditional,7,Low,0.5,Low,Rural,12,31,22,7,Moderate,Good
+26,17,1998,Processed,8,High,1.9,High,Rural,78,15,42,4,Low,Excellent
+74,17,1950,Fast Food,7,Low,1.8,Medium,Urban,69,32,45,6,Moderate,Excellent
+70,16,1954,Processed,5,High,2.3,High,Suburban,75,24,66,9,High,Poor
+26,11,1998,Traditional,4,High,1.1,Low,Suburban,96,10,26,4,Moderate,Poor
+76,16,1948,Traditional,2,Low,2.8,Medium,Urban,99,12,55,6,Moderate,Average
+72,13,1952,Fast Food,2,High,3.6,Low,Rural,35,23,63,9,Low,Average
+26,16,1998,Vegan,6,High,3.3,High,Rural,80,34,52,1,Moderate,Good
+29,17,1995,Vegan,4,Medium,4.1,Low,Urban,83,23,68,8,High,Excellent
+72,17,1952,Processed,5,Low,2.5,High,Suburban,78,28,55,1,High,Average
+58,16,1966,Traditional,5,Low,2.8,Low,Urban,56,28,23,4,High,Good
+32,12,1992,Traditional,8,High,4.1,High,Urban,85,28,73,3,High,Good
+19,12,2005,Fast Food,0,High,2.4,Low,Urban,51,21,42,4,Moderate,Poor
+28,16,1996,Fast Food,7,Low,3.7,Medium,Rural,40,28,44,7,High,Excellent
+28,11,1996,Traditional,9,Low,2.5,Medium,Rural,31,28,60,9,Moderate,Good
+25,17,1999,Fast Food,4,Low,2.4,Low,Rural,26,22,45,9,Moderate,Poor
+72,16,1952,Vegan,5,High,3.9,High,Suburban,93,16,47,1,Low,Good
+49,13,1975,Vegan,5,Medium,1.3,Low,Urban,29,13,47,1,Moderate,Excellent
+23,16,2001,Processed,0,Medium,2.0,Medium,Urban,17,27,40,9,Moderate,Good
+70,16,1954,Fast Food,2,High,1.5,High,Suburban,58,28,29,4,Low,Good
+37,17,1987,Processed,5,High,2.1,Low,Rural,96,20,46,3,High,Average
+56,17,1968,Fast Food,8,High,1.5,Low,Urban,47,22,70,9,High,Average
+52,11,1972,Fast Food,5,Low,3.1,High,Suburban,62,20,70,5,Moderate,Poor
+25,12,1999,Vegan,5,High,4.1,Low,Rural,37,20,34,6,Low,Good
+67,11,1957,Traditional,0,Low,4.0,Medium,Rural,86,8,73,1,Moderate,Poor
+66,11,1958,Fast Food,8,Medium,2.1,Medium,Urban,38,27,36,1,Moderate,Excellent
+60,11,1964,Fast Food,3,High,4.9,High,Rural,81,26,58,7,High,Poor
+51,12,1973,Fast Food,1,High,3.2,Low,Suburban,20,11,54,8,Low,Good
+74,13,1950,Traditional,0,Low,2.3,Low,Rural,56,5,24,8,Moderate,Average
+70,17,1954,Processed,2,Low,4.3,Medium,Urban,54,28,35,7,High,Average
+76,11,1948,Processed,2,Low,3.8,High,Suburban,27,33,42,9,Moderate,Poor
+73,17,1951,Fast Food,4,Medium,3.9,High,Rural,59,27,58,1,High,Average
+36,13,1988,Fast Food,0,Medium,1.4,High,Rural,98,33,67,2,Low,Good
+24,13,2000,Processed,6,High,2.6,Medium,Rural,58,24,28,3,Moderate,Good
+48,17,1976,Processed,0,High,4.4,Medium,Suburban,31,5,52,5,Low,Excellent
+35,12,1989,Vegan,3,Low,2.8,High,Rural,54,12,54,4,High,Average
+57,11,1967,Fast Food,5,Medium,3.6,High,Urban,70,30,76,4,Low,Average
+31,16,1993,Processed,0,High,3.1,Low,Suburban,30,27,59,8,Low,Excellent
+56,16,1968,Vegan,6,Low,4.3,Low,Suburban,80,12,69,8,Low,Poor
+77,16,1947,Traditional,9,Low,1.8,High,Rural,70,14,43,7,Moderate,Excellent
+70,16,1954,Fast Food,6,Medium,3.1,Medium,Suburban,85,5,43,1,High,Average
+77,17,1947,Processed,2,Medium,1.1,Medium,Urban,45,25,69,4,Low,Poor
+76,16,1948,Fast Food,3,High,3.6,Low,Suburban,33,29,43,1,Moderate,Good
+53,16,1971,Vegan,5,High,3.8,High,Urban,41,25,38,5,High,Good
+34,17,1990,Processed,6,Low,0.7,Medium,Rural,68,33,58,3,High,Excellent
+54,11,1970,Traditional,3,Low,3.5,Medium,Suburban,99,18,44,3,High,Good
+61,12,1963,Traditional,9,Low,2.4,Medium,Urban,84,18,71,4,Low,Average
+26,11,1998,Vegan,8,High,1.1,Medium,Rural,91,14,50,2,Low,Excellent
+75,12,1949,Traditional,8,Medium,2.4,Low,Urban,14,32,78,7,Low,Average
+37,16,1987,Traditional,8,High,1.4,Medium,Suburban,25,23,57,4,High,Average
+62,11,1962,Traditional,9,Medium,2.4,Medium,Suburban,20,29,44,5,High,Poor
+74,16,1950,Traditional,5,High,2.2,High,Urban,44,33,46,2,Low,Poor
+45,16,1979,Traditional,1,High,3.8,High,Rural,84,20,51,6,Low,Poor
+67,16,1957,Traditional,1,Medium,4.0,Low,Rural,51,13,30,9,High,Good
+37,16,1987,Traditional,3,High,3.2,Low,Rural,96,24,24,8,High,Poor
+58,16,1966,Processed,8,High,0.6,Low,Rural,90,20,63,8,Moderate,Average
+53,17,1971,Traditional,2,Low,4.7,Low,Urban,19,24,52,2,Moderate,Excellent
+70,11,1954,Processed,5,Medium,3.6,Medium,Suburban,91,31,38,4,Low,Excellent
+44,12,1980,Fast Food,1,Medium,0.7,High,Urban,17,12,62,8,High,Average
+25,12,1999,Vegan,0,Low,4.2,Medium,Suburban,35,11,66,1,High,Good
+49,12,1975,Traditional,4,Medium,1.4,Medium,Suburban,12,15,76,8,Moderate,Excellent
+18,16,2006,Vegan,7,Low,3.1,Medium,Urban,68,25,35,3,High,Average
+34,12,1990,Traditional,9,Medium,2.6,High,Urban,97,10,54,8,Low,Average
+74,11,1950,Processed,9,Medium,2.4,Low,Rural,12,19,30,6,Moderate,Average
+26,13,1998,Traditional,1,Medium,4.5,Low,Suburban,47,23,30,7,High,Excellent
+37,12,1987,Fast Food,9,Medium,2.5,High,Rural,11,18,29,2,High,Excellent
+62,17,1962,Vegan,8,Low,0.8,High,Rural,26,19,53,1,Low,Poor
+49,11,1975,Vegan,7,Low,4.8,Low,Urban,82,10,71,6,High,Poor
+19,16,2005,Fast Food,2,Medium,4.6,Medium,Rural,45,33,24,3,Moderate,Average
+49,16,1975,Processed,0,High,3.6,Low,Rural,95,28,42,4,Moderate,Average
+62,13,1962,Processed,3,Low,2.6,High,Rural,97,14,74,9,High,Average
+26,11,1998,Fast Food,7,Medium,0.9,Low,Urban,82,18,44,3,High,Average
+47,12,1977,Vegan,2,Low,4.1,Low,Rural,11,20,48,2,High,Excellent
+37,16,1987,Traditional,9,High,0.8,Low,Rural,94,17,59,2,High,Poor
+55,12,1969,Processed,1,High,0.8,High,Urban,43,15,32,2,Moderate,Good
+77,11,1947,Traditional,6,High,2.9,High,Urban,36,29,66,6,Low,Average
+18,17,2006,Vegan,3,Medium,1.2,Low,Urban,46,7,51,2,Moderate,Poor
+77,17,1947,Traditional,5,Medium,0.5,Low,Suburban,80,12,53,7,High,Average
+18,13,2004,Balanced,3,Low,1.9,High,Suburban,40,10,42,9,Moderate,Good
+18,11,2003,Processed,9,Low,1.7,Medium,Suburban,67,13,38,9,Moderate,Good
+20,12,2004,Balanced,9,Medium,2.1,High,Urban,71,5,47,9,Moderate,Excellent
+21,10,2006,Balanced,9,Low,1.3,High,Suburban,111,12,34,6,Moderate,Good
+22,11,2006,Vegan,8,Low,0.6,Low,Suburban,94,8,20,9,Moderate,Good
+21,13,2002,Processed,5,High,1.5,High,Urban,65,14,30,7,High,Excellent
+21,10,2001,Balanced,9,Medium,3.0,Low,Urban,53,11,47,8,High,Good
+19,10,2003,Vegan,9,High,1.0,Medium,Urban,107,10,37,9,High,Good
+20,10,2002,Fast Food,3,Low,1.8,Medium,Suburban,102,10,22,7,Moderate,Good
+20,10,2003,Fast Food,8,Low,0.5,Medium,Urban,53,11,47,7,High,Excellent
+18,10,2003,Processed,6,Medium,0.8,Medium,Suburban,66,8,28,6,Moderate,Good
+21,12,2002,Balanced,4,Low,2.0,High,Suburban,80,10,43,6,Moderate,Excellent
+22,12,2004,Processed,8,Medium,1.2,Low,Suburban,42,7,23,8,Moderate,Excellent
+19,10,2005,Balanced,7,High,2.8,Medium,Urban,98,9,43,8,High,Excellent
+20,13,2003,Vegan,5,Medium,1.5,Medium,Urban,62,6,32,5,High,Excellent
+18,13,2006,Fast Food,7,High,1.0,Low,Urban,57,7,28,8,High,Good
+22,12,2002,Fast Food,4,Low,1.9,Low,Suburban,113,13,22,6,Moderate,Excellent
+21,11,2001,Fast Food,6,High,2.5,Low,Urban,115,10,35,7,Moderate,Good
+22,10,2004,Fast Food,8,High,0.5,Low,Urban,80,7,41,5,Moderate,Excellent
+20,13,2003,Processed,6,High,1.8,Low,Suburban,47,6,27,8,Moderate,Good
+19,12,2001,Balanced,4,Medium,2.4,High,Suburban,71,9,45,7,High,Good
+21,12,2004,Processed,7,High,0.8,Low,Urban,80,14,26,6,High,Good
+19,11,2002,Vegan,8,Medium,2.8,High,Urban,84,9,44,9,High,Good
+23,11,2001,Fast Food,5,Medium,1.2,Low,Suburban,117,5,42,5,High,Good
+22,13,2006,Balanced,3,Medium,0.9,Low,Suburban,48,7,36,7,Moderate,Good
+22,11,2003,Processed,9,Low,2.0,Medium,Suburban,87,11,44,6,Moderate,Good
+18,11,2003,Balanced,6,Low,0.9,Medium,Urban,63,13,47,6,High,Good
+21,10,2001,Processed,4,Low,2.2,Medium,Urban,83,9,35,5,Moderate,Good
+22,12,2004,Balanced,8,Medium,1.7,Medium,Suburban,97,8,40,5,Moderate,Good
+20,12,2002,Balanced,7,Low,0.8,Medium,Urban,105,7,41,8,High,Excellent
+23,11,2005,Fast Food,5,High,2.8,Medium,Urban,57,14,37,8,High,Good
+20,12,2003,Processed,7,Medium,2.2,Low,Urban,119,13,35,5,Moderate,Good
+19,12,2006,Vegan,5,Low,1.9,Low,Suburban,68,11,34,5,High,Good
+23,13,2003,Balanced,8,Medium,1.4,Medium,Urban,114,11,21,7,High,Excellent
+23,12,2003,Vegan,3,Low,0.8,Medium,Suburban,41,12,48,8,High,Excellent
+20,11,2005,Fast Food,3,High,2.3,Medium,Urban,117,14,39,6,High,Good
+22,13,2005,Vegan,9,Medium,2.5,Low,Suburban,107,5,23,8,High,Good
+20,12,2002,Balanced,4,Low,0.8,Medium,Suburban,78,8,24,8,High,Excellent
+21,12,2003,Balanced,4,Low,1.7,Medium,Urban,112,9,26,5,High,Good
+19,13,2003,Balanced,5,High,1.7,Low,Urban,80,9,48,5,High,Good
+23,13,2004,Processed,5,High,1.4,Low,Suburban,110,5,46,8,High,Excellent
+21,12,2004,Vegan,5,Low,2.5,High,Suburban,114,7,47,9,Moderate,Excellent
+22,10,2001,Processed,5,Low,0.7,Medium,Urban,61,6,34,9,High,Good
+22,10,2001,Balanced,9,Medium,1.0,Low,Suburban,88,11,36,8,High,Good
+20,12,2006,Balanced,8,Medium,0.5,High,Suburban,67,9,29,9,High,Good
+18,12,2006,Fast Food,8,Low,1.4,Low,Urban,55,7,39,8,Moderate,Excellent
+23,13,2004,Fast Food,3,High,1.2,High,Urban,107,12,48,5,High,Good
+23,13,2001,Balanced,4,Medium,2.7,High,Urban,101,5,28,5,High,Good
+18,12,2006,Processed,9,Low,2.4,Medium,Urban,75,5,35,5,Moderate,Excellent
+22,12,2003,Processed,4,High,0.7,Medium,Suburban,61,10,43,6,Moderate,Good
+22,12,2001,Balanced,6,High,2.4,High,Urban,50,5,22,5,High,Good
+23,12,2005,Vegan,4,Low,2.2,Medium,Urban,119,8,41,5,Moderate,Good
+19,10,2001,Processed,4,Low,1.2,Low,Urban,81,10,46,8,Moderate,Good
+23,13,2003,Balanced,7,Medium,0.5,Low,Urban,94,5,28,9,Moderate,Excellent
+22,11,2004,Fast Food,7,Low,0.8,High,Suburban,112,13,27,9,Moderate,Excellent
+22,12,2002,Balanced,9,Medium,1.1,High,Suburban,74,8,42,5,Moderate,Excellent
+19,12,2002,Processed,6,High,2.5,Low,Urban,96,13,26,5,High,Good
+21,12,2004,Balanced,5,Medium,1.7,Low,Urban,73,13,36,5,Moderate,Good
+21,11,2003,Vegan,6,Low,2.8,High,Urban,112,10,24,8,High,Good
+19,13,2006,Vegan,6,Medium,2.5,Low,Urban,116,11,26,8,High,Good
+19,13,2001,Processed,3,High,1.2,Low,Suburban,109,5,49,8,High,Excellent
+21,12,2001,Balanced,8,High,2.6,High,Suburban,43,9,32,9,Moderate,Good
+21,12,2006,Vegan,4,Low,0.8,Medium,Suburban,85,7,37,6,High,Good
+21,13,2002,Vegan,3,Medium,0.6,Low,Suburban,50,14,41,9,Moderate,Good
+21,11,2004,Fast Food,9,Low,2.0,Medium,Urban,100,14,33,8,High,Excellent
+23,12,2004,Processed,8,Low,1.4,Medium,Suburban,74,10,37,7,High,Good
+23,11,2005,Fast Food,9,High,1.3,Low,Suburban,108,8,22,6,High,Good
+20,11,2002,Fast Food,4,Medium,2.2,Medium,Urban,96,13,36,5,Moderate,Good
+19,13,2004,Vegan,9,Low,2.6,High,Suburban,50,11,38,9,High,Good
+18,12,2005,Balanced,6,High,1.3,Low,Suburban,51,8,26,6,Moderate,Good
+20,10,2006,Fast Food,4,Low,1.3,Low,Suburban,82,10,40,7,Moderate,Excellent
+18,13,2002,Processed,5,Medium,1.8,Medium,Urban,58,6,23,6,Moderate,Good
+18,13,2002,Processed,5,Low,2.1,Low,Urban,116,7,34,9,High,Good
+22,10,2004,Balanced,6,Medium,1.0,Low,Urban,107,11,48,8,High,Good
+19,12,2004,Processed,9,High,2.8,Medium,Urban,117,8,47,5,High,Good
+23,11,2003,Fast Food,7,High,2.1,Medium,Suburban,98,14,43,8,High,Good
+20,11,2006,Balanced,5,Low,2.1,Low,Suburban,41,11,27,8,Moderate,Excellent
+19,11,2006,Processed,6,High,2.8,Low,Urban,47,13,35,9,High,Good
+21,12,2001,Processed,3,Low,2.8,High,Urban,61,9,20,8,Moderate,Excellent
+19,13,2005,Fast Food,7,Low,0.8,High,Urban,116,5,44,8,Moderate,Excellent
+18,13,2005,Fast Food,5,Medium,0.9,Low,Suburban,60,9,35,9,High,Good
+23,13,2003,Fast Food,6,Low,2.4,Low,Suburban,68,10,49,9,High,Good
+21,13,2001,Fast Food,6,Medium,2.9,High,Urban,114,6,44,7,Moderate,Excellent
+19,13,2006,Balanced,3,Low,2.2,Medium,Urban,114,12,21,8,Moderate,Good
+19,10,2005,Balanced,3,Medium,1.5,Low,Urban,76,6,21,6,High,Excellent
+23,11,2006,Balanced,7,High,2.2,High,Urban,117,13,27,5,High,Excellent
+18,11,2006,Vegan,8,Low,1.1,High,Urban,68,6,31,5,High,Good
+21,12,2001,Fast Food,5,Medium,3.0,Low,Urban,76,7,30,9,Moderate,Good
+18,10,2005,Fast Food,6,Low,1.6,Low,Urban,60,12,25,9,Moderate,Excellent
+23,13,2004,Balanced,7,Medium,2.8,High,Urban,51,10,38,7,High,Good
+19,13,2004,Processed,9,Medium,1.6,Low,Suburban,87,5,47,8,Moderate,Excellent
+20,13,2001,Processed,7,Low,2.8,Medium,Urban,86,8,37,9,Moderate,Excellent
+20,10,2005,Fast Food,9,Low,1.3,Low,Suburban,54,9,24,9,Moderate,Good
+22,12,2003,Fast Food,3,High,2.4,High,Urban,106,7,34,5,Moderate,Excellent
+20,10,2002,Balanced,6,High,2.9,High,Suburban,52,5,27,8,High,Excellent
+23,12,2001,Fast Food,4,High,2.1,Low,Urban,98,7,25,7,Moderate,Excellent
+23,11,2006,Processed,8,Low,2.2,High,Urban,112,13,31,9,High,Excellent
+23,12,2001,Processed,8,High,0.8,Medium,Suburban,52,6,38,9,High,Excellent
+21,11,2002,Fast Food,3,Medium,1.7,Low,Urban,119,5,31,9,Moderate,Excellent
+22,12,2001,Balanced,9,Low,2.7,Low,Suburban,117,11,31,5,High,Good
+21,11,2005,Balanced,6,Medium,1.1,High,Suburban,111,11,28,9,High,Excellent
+20,11,2006,Processed,7,Medium,2.5,Medium,Suburban,58,9,43,9,High,Excellent
+20,13,2002,Balanced,8,Medium,2.2,Low,Urban,96,6,29,5,Moderate,Good
+19,12,2004,Processed,7,Low,1.1,High,Suburban,71,5,41,9,High,Good
+21,13,2003,Fast Food,5,Low,1.2,Low,Urban,60,9,36,8,Moderate,Good
+18,11,2001,Processed,4,High,1.6,Medium,Suburban,53,14,37,8,High,Excellent
+19,13,2001,Fast Food,3,High,0.8,High,Urban,119,8,35,5,High,Good
+21,10,2002,Balanced,9,High,2.8,Low,Suburban,63,13,23,8,High,Excellent
+23,13,2003,Vegan,8,High,2.3,High,Suburban,88,9,37,7,High,Excellent
+22,12,2001,Vegan,5,Medium,1.4,High,Urban,71,14,22,9,Moderate,Excellent
+21,13,2004,Vegan,5,Low,1.2,Medium,Urban,114,6,35,7,High,Excellent
+22,10,2002,Processed,4,High,2.2,Medium,Urban,50,8,33,8,High,Good
+22,13,2005,Vegan,3,Medium,1.6,Low,Urban,99,13,43,5,High,Excellent
+20,11,2006,Processed,3,Low,1.1,High,Urban,107,12,28,5,Moderate,Excellent
+18,11,2004,Balanced,7,Low,1.6,High,Urban,100,7,25,7,Moderate,Excellent
+21,11,2003,Fast Food,3,Low,2.7,High,Urban,44,12,23,8,High,Excellent
+18,12,2003,Vegan,5,Medium,0.7,Low,Urban,75,6,46,9,High,Excellent
+22,13,2004,Processed,7,High,1.4,Medium,Urban,103,7,21,8,High,Excellent
+20,11,2005,Balanced,3,Low,2.9,Medium,Suburban,117,9,42,8,High,Good
+18,13,2001,Balanced,9,Medium,0.5,High,Suburban,71,14,29,5,Moderate,Good
+19,10,2005,Vegan,9,Low,2.7,Low,Suburban,110,14,30,6,Moderate,Excellent
+22,10,2001,Balanced,4,Medium,1.4,High,Suburban,113,12,26,9,Moderate,Excellent
+19,12,2001,Balanced,5,High,1.0,Medium,Urban,105,5,45,9,High,Excellent
+23,13,2003,Balanced,6,High,0.5,High,Suburban,49,8,44,5,High,Excellent
+18,10,2001,Processed,4,Low,0.7,High,Suburban,60,5,24,8,High,Excellent
+18,12,2004,Balanced,4,High,0.9,High,Suburban,79,5,45,5,High,Good
+18,12,2001,Balanced,3,High,0.6,Medium,Urban,81,9,23,8,Moderate,Excellent
+23,11,2004,Balanced,7,Medium,1.3,Low,Urban,111,10,45,6,Moderate,Good
+21,10,2006,Balanced,7,Medium,0.6,High,Suburban,85,5,25,6,Moderate,Good
+22,13,2003,Balanced,9,Low,2.2,Medium,Suburban,112,10,47,7,High,Good
+22,10,2005,Processed,5,Medium,2.5,High,Suburban,80,9,21,8,High,Good
+22,10,2002,Balanced,3,High,2.7,Low,Urban,43,8,21,5,High,Good
+21,13,2005,Balanced,7,Medium,1.9,High,Suburban,53,14,35,5,High,Excellent
+18,13,2005,Fast Food,9,High,2.9,Low,Suburban,53,9,47,5,High,Excellent
+18,11,2002,Balanced,8,Low,0.5,Medium,Urban,92,12,44,7,Moderate,Excellent
+23,12,2003,Balanced,6,High,0.8,Low,Suburban,68,13,42,9,High,Excellent
+19,13,2001,Processed,8,Medium,1.2,Low,Suburban,62,6,42,5,High,Good
+21,13,2006,Balanced,3,Medium,2.5,Medium,Suburban,70,10,32,6,Moderate,Good
+20,10,2005,Processed,3,Medium,2.7,Low,Suburban,110,7,40,5,Moderate,Excellent
+21,13,2001,Vegan,7,Medium,2.0,Low,Suburban,116,6,26,5,High,Good
+23,13,2005,Balanced,4,Low,1.5,Medium,Suburban,100,5,44,5,Moderate,Excellent
+19,10,2003,Fast Food,3,High,2.2,Low,Suburban,62,8,45,9,High,Good
+19,10,2003,Processed,4,Medium,1.0,Low,Suburban,47,12,24,5,High,Good
+19,10,2004,Vegan,5,High,1.6,High,Urban,115,7,44,9,Moderate,Good
+18,11,2003,Fast Food,9,Low,1.8,Low,Suburban,55,9,36,9,High,Good
+20,12,2003,Processed,5,High,0.8,Low,Suburban,65,14,32,7,High,Excellent
+19,13,2005,Vegan,7,Medium,0.6,Low,Suburban,68,9,34,6,High,Good
+22,10,2006,Fast Food,5,High,2.4,Medium,Urban,45,9,47,5,Moderate,Excellent
+18,10,2005,Balanced,8,Medium,1.8,Low,Suburban,76,13,22,5,Moderate,Excellent
+20,12,2001,Fast Food,8,Medium,1.3,Medium,Urban,72,12,42,5,Moderate,Good
+22,11,2003,Fast Food,8,Low,1.6,Medium,Suburban,85,12,23,9,Moderate,Excellent
+20,13,2004,Fast Food,7,Low,2.9,Low,Urban,100,5,34,8,High,Excellent
+23,11,2006,Processed,7,High,1.5,Low,Urban,80,5,37,6,Moderate,Excellent
+20,11,2004,Balanced,8,High,0.8,Low,Urban,57,6,47,5,High,Excellent
+22,11,2002,Balanced,4,Medium,1.7,Low,Suburban,55,12,49,8,Moderate,Good
+21,10,2004,Processed,8,Medium,2.1,Low,Suburban,90,14,22,8,Moderate,Good
+20,12,2004,Fast Food,4,Medium,0.5,Low,Urban,76,5,26,8,High,Good
+21,12,2001,Balanced,5,Medium,1.3,Low,Suburban,53,8,27,6,Moderate,Good
+20,12,2003,Fast Food,4,Low,1.5,Medium,Urban,107,13,30,8,Moderate,Excellent
+23,11,2001,Balanced,3,Medium,1.7,High,Suburban,69,6,44,5,High,Excellent
+22,13,2003,Processed,6,Low,1.3,Medium,Suburban,99,7,41,5,Moderate,Good
+20,11,2001,Vegan,3,High,2.2,Low,Urban,92,10,45,7,High,Good
+19,12,2003,Fast Food,3,High,2.9,High,Urban,75,14,28,9,Moderate,Excellent
+23,10,2003,Balanced,7,Low,2.8,High,Suburban,69,7,39,8,High,Good
+19,11,2003,Balanced,6,Medium,2.2,Low,Urban,103,8,31,9,Moderate,Excellent
+23,10,2004,Balanced,7,High,1.8,Low,Urban,53,13,24,9,High,Good
+23,12,2002,Processed,4,Low,2.6,Medium,Suburban,62,13,20,9,Moderate,Excellent
+20,11,2003,Processed,8,High,2.6,High,Urban,87,14,33,9,High,Excellent
+22,10,2002,Vegan,9,Medium,2.6,High,Suburban,67,9,44,9,Moderate,Good
+22,11,2002,Processed,9,Low,0.9,Low,Suburban,46,11,44,5,Moderate,Good
+18,12,2005,Fast Food,9,High,0.6,Low,Urban,81,13,44,6,Moderate,Good
+22,13,2005,Processed,4,Medium,3.0,High,Urban,49,12,22,8,High,Excellent
+21,12,2006,Balanced,6,Low,2.9,High,Urban,107,11,48,8,High,Good
+20,13,2001,Fast Food,5,Low,1.9,Low,Suburban,83,12,34,5,Moderate,Good
+19,13,2005,Processed,4,Low,3.0,Low,Urban,52,9,29,5,Moderate,Good
+22,12,2003,Fast Food,3,Low,2.4,Low,Suburban,72,9,45,9,Moderate,Good
+19,10,2002,Fast Food,6,High,1.8,Medium,Urban,71,9,29,6,Moderate,Good
+18,11,2001,Processed,6,Low,1.5,Medium,Urban,87,5,43,8,Moderate,Excellent
+20,11,2006,Fast Food,4,Low,2.0,Low,Suburban,44,10,22,7,Moderate,Good
+22,11,2005,Balanced,4,Low,1.8,Medium,Urban,100,9,48,5,Moderate,Good
+19,13,2004,Balanced,7,Low,3.0,High,Urban,42,12,25,7,Moderate,Good
+23,13,2001,Processed,7,Low,1.7,High,Suburban,63,12,24,8,Moderate,Good
+22,12,2006,Processed,3,Medium,2.6,Low,Urban,73,6,43,5,Moderate,Excellent
+18,10,2003,Balanced,6,High,2.5,High,Urban,81,10,38,8,High,Excellent
+23,12,2001,Processed,9,Medium,0.7,High,Suburban,59,14,33,5,High,Good
+19,12,2002,Balanced,5,High,0.7,High,Urban,80,14,36,8,Moderate,Good
+19,10,2003,Fast Food,5,Low,2.1,High,Urban,59,10,31,7,Moderate,Good
+20,13,2003,Processed,6,High,1.1,High,Suburban,45,7,28,6,Moderate,Excellent
+20,12,2001,Vegan,3,Low,2.1,Medium,Urban,96,5,45,5,High,Excellent
+19,12,2004,Balanced,9,Low,0.9,Medium,Urban,81,11,44,7,High,Good
+23,13,2004,Balanced,7,Medium,1.5,Low,Urban,64,14,22,8,Moderate,Excellent
+20,11,2001,Fast Food,7,Medium,0.8,High,Suburban,80,9,37,7,Moderate,Excellent
+19,10,2001,Vegan,7,Medium,1.2,Medium,Urban,80,14,23,5,Moderate,Excellent
+23,10,2001,Vegan,5,High,0.7,Medium,Suburban,42,9,33,7,High,Excellent
+21,11,2002,Vegan,5,High,2.9,Medium,Urban,82,12,43,8,High,Excellent
+22,10,2005,Balanced,3,Medium,1.5,High,Urban,85,9,25,9,High,Excellent
+21,11,2003,Balanced,5,Medium,2.8,Medium,Urban,96,9,45,6,High,Good
+21,12,2001,Vegan,4,Low,2.9,Low,Urban,113,5,34,6,Moderate,Excellent
+22,10,2005,Processed,5,High,2.8,Low,Urban,90,6,36,9,Moderate,Good
+19,10,2002,Vegan,7,Low,1.6,High,Urban,44,9,43,5,Moderate,Excellent
